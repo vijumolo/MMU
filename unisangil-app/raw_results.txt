@@ -1,0 +1,1076 @@
+1
+41.      6049                   Hector David Rodriguez Uribe                                        Bucaramanga                        2:09:32          +56:11            9.7 km/h           6:10 Min/km
+40.      6027                   Diego Andres Peña Mantilla                                          Piedecuesta                        2:08:37          +55:16            9.7 km/h           6:07 Min/km
+39.      6040                   Andres Zambrano                                                      San Gil                             2:06:45          +53:24            9.9 km/h           6:02 Min/km
+38.      6022                   Juan David Castellanos                                               Bucaramanga                        2:06:44          +53:23            9.9 km/h           6:02 Min/km
+37.      6011                   Edinson Jaimes Jaimes                                               Bucaramanga                        2:06:20          +52:59            9.9 km/h           6:00 Min/km
+36.      6030                   Roberth Andreit Amaya                                               Bucaramanga                        2:05:30          +52:09           10.0 km/h          5:58 Min/km
+35.      6047                   Juan Felipe Moreno Ayala                                            Bucaramanga                        2:04:34          +51:13           10.1 km/h          5:55 Min/km
+34.      6046                   Maikol Steven Jurado                                                 SANTANDER                          2:04:06          +50:45           10.1 km/h          5:54 Min/km
+33.      6015                   Daniel Fernando Casas Avila                                        Barbosa                             2:02:10          +48:49           10.3 km/h          5:49 Min/km
+32.      6026                   Johan Silva                                                           San Gil                             2:00:19          +46:58           10.4 km/h          5:43 Min/km
+31.      6044                   Mariolfo Suarez Ayala                                               San Gil                             1:59:24          +46:03           10.5 km/h          5:41 Min/km
+30.      6007                   Andres Vargas                                                        Bucaramanga                        1:57:33          +44:12           10.7 km/h          5:35 Min/km
+29.      6048                   Elkin Ferney Cristancho Zambrano                                   San Gil                             1:55:45          +42:24           10.8 km/h          5:30 Min/km
+28.      6034                   Shemairei David Carreño Chacon                                     Pinchote                             1:55:31          +42:10           10.9 km/h          5:30 Min/km
+27.      6012                   Alvaro Felipe Argüello Diaz                                        San Gil                             1:55:28          +42:07           10.9 km/h          5:29 Min/km
+26.      6054                   Kevin Estiven Perez                                                 San Gil                             1:54:34          +41:13           10.9 km/h          5:27 Min/km
+25.      6010                   Daniel Esteban Salazar Lopez                                        Socorro                             1:53:18          +39:57           11.1 km/h          5:23 Min/km
+24.      6056                   Andres Felipe Fonseca Ortiz                                        San Gil                             1:53:17          +39:56           11.1 km/h          5:23 Min/km
+23.      6052                   Carlos Roberto Pilonieta Quintero                                 San Gil                             1:53:14          +39:53           11.1 km/h          5:23 Min/km
+22.      6043                   Andres Camilo Triana Manrique                                     San Gil                             1:51:35          +38:14           11.2 km/h          5:18 Min/km
+21.      6008                   Yampier Rodriguez                                                    Bucaramanga                        1:50:34          +37:13           11.3 km/h          5:15 Min/km
+20.      6000                   Camilo Enrique Cortes Torres                                        San Gil                             1:48:41          +35:20           11.5 km/h          5:10 Min/km
+19.      6006                   Miguel Angel Martinez Ardila                                        Socorro                             1:48:13          +34:52           11.6 km/h          5:09 Min/km
+18.      6051                   Juan David Dulcey Estupiñan                                        San Gil                             1:46:28          +33:07           11.8 km/h          5:04 Min/km
+17.      6039                   Yhoel Jose Ramirez Guevara                                          Anaco                               1:45:51          +32:30           11.9 km/h          5:02 Min/km
+16.      6009                   Hernan Dario Vega Villalba                                          Bogotá                               1:45:01          +31:40           11.9 km/h          5:00 Min/km
+15.      6042                   Luis David Pinto                                                      Socorro                             1:43:34          +30:13           12.1 km/h          4:55 Min/km
+14.      6018                   Carlos Solano                                                        Mogotes                             1:38:13          +24:52           12.8 km/h          4:40 Min/km
+13.      6002                   Daniel Alexis Mejia Bernal                                          Socorro                             1:35:51          +22:30           13.1 km/h          4:33 Min/km
+12.      6053                   Luis Carlos Pinto Otero                                            San Gil                             1:35:18          +21:57           13.2 km/h          4:32 Min/km
+11.      6014                   Eimar Alfonso Espitia Gomez                                        Paramo                               1:33:49          +20:28           13.4 km/h          4:28 Min/km
+10.      6050                   Carlos Pineda Vargas                                                 Bucaramanga                        1:32:34          +19:13           13.6 km/h          4:24 Min/km
+9.        6021                   Omar Julian Martinez Duarte                                        Barbosa                             1:29:31          +16:10           14.0 km/h          4:15 Min/km
+8.        6025                   Cristian Romero                                                      Palmas Del Socorro                 1:28:31          +15:10           14.2 km/h          4:12 Min/km
+7.        6029                   Johnatan Fernando Sarmiento Pacheco                              Socorro                             1:25:09          +11:48           14.7 km/h          4:03 Min/km
+6.        6001                   Juan Diego Sierra Montoya                                          Bucaramanga                        1:24:12          +10:51           14.9 km/h          4:00 Min/km
+5.        6023                   Pablo Andres Quintero Guerrero                                     Floridablanca                      1:22:29          +9:08           15.2 km/h          3:55 Min/km
+4.        6032                   Edgar Fabian Garces                                                 Bucaramanga                        1:21:38          +8:17           15.4 km/h          3:53 Min/km
+3.        6033                   Marco Andrey Dueñas Tellez                                          Bucaramanga                        1:16:41          +3:20           16.4 km/h          3:39 Min/km
+2.        6037                   Humberto Rico Tello                                                 Mesa de Los Santos                 1:16:40          +3:19           16.4 km/h          3:39 Min/km
+1.        6035                   Julian Felipe Archila Moreno                                        Duitama                             1:13:21          --                17.1 km/h          3:29 Min/km
+Hombres
+8.        6019                   Mabel Rocio Ardila Sanabria                                        Charala                             2:28:51          +58:07            8.4 km/h           7:05 Min/km
+7.        6028                   Silvia Juliana Sanchez Rodriguez                                   Charala                             2:18:09          +47:25            9.1 km/h           6:34 Min/km
+6.        6041                   Carolay Melo Ovalle                                                 Socorro                             2:14:14          +43:30            9.3 km/h           6:23 Min/km
+5.        6036                   Adriana Arias                                                        San Gil                             2:07:48          +37:04            9.8 km/h           6:05 Min/km
+4.        6004                   Zaira Andrea Marquez Leon                                          San Gil                             2:07:34          +36:50            9.8 km/h           6:04 Min/km
+3.        6020                   Denys Perez Muñoz                                                    Bucaramanga                        2:03:18          +32:34           10.2 km/h          5:52 Min/km
+2.        6013                   Paola Andrea Mejia Mejia                                            San Gil                             1:48:08          +17:24           11.6 km/h          5:08 Min/km
+1.        6060                   Marly Lucero Mirillo Pinto                                          Valle de San Jose                 1:30:44          --                13.8 km/h          4:19 Min/km
+Damas
+21 K ABIERTA
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+SANGIL - SANTANDER      21K, 10.5K,  5 KM           /                                                                                                                       2026-05-17
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (0) Break----------------
+2
+36.      7005                   Oscar Santos Ribero                                                 SANTANDER                          2:19:41          +59:45            9.0 km/h           6:39 Min/km
+35.      7020                   Julio Cesar Gutierrez Malagon                                     Bucaramanga                        2:18:07          +58:11            9.1 km/h           6:34 Min/km
+34.      7009                   Jose Horacio Carreño Hernandez                                     BOGOTa. D.C.                        2:17:57          +58:01            9.1 km/h           6:34 Min/km
+33.      7038                   Giovanni Alfonso Ortiz Torres                                     Pie de Cuesta                      2:15:59          +56:03            9.2 km/h           6:28 Min/km
+32.      7023                   Jaime Osbaldo Chacon Cagua                                          Bucaramanga                        2:11:46          +51:50            9.5 km/h           6:16 Min/km
+31.      7029                   Orlando Ramirez Duran                                               Socorro                             2:10:45          +50:49            9.6 km/h           6:13 Min/km
+30.      7040                   Ismael Fernando Guerrero Peña                                     Charala                             2:10:03          +50:07            9.6 km/h           6:11 Min/km
+29.      7016                   Sergio Enrique Pinzon Rueda                                        San Gil                             2:07:59          +48:03            9.8 km/h           6:05 Min/km
+28.      7037                   Alexander Diaz Rueda                                                 San Gil                             2:07:35          +47:39            9.8 km/h           6:04 Min/km
+27.      7021                   Felix Hernando Ramirez Gonzalez                                   Tunja                               2:06:08          +46:12            9.9 km/h           6:00 Min/km
+26.      7042                   Jerson Mauricio Quintero Infante                                   Bucaramanga                        2:06:06          +46:10            9.9 km/h           6:00 Min/km
+25.      7028                   Diego Fernando Pinzon Arenas                                        San Gil                             2:03:47          +43:51           10.1 km/h          5:53 Min/km
+24.      7004                   Isnardo  Mendoza Higuera                                            Bucaramanga                        2:03:16          +43:20           10.2 km/h          5:52 Min/km
+23.      7000                   Arley Gonzalo Pabon Reyes                                          Bogotá                               2:02:25          +42:29           10.2 km/h          5:49 Min/km
+22.      7010                   Julio Cesar Torres Gallego                                          Socorro                             1:59:58          +40:02           10.5 km/h          5:42 Min/km
+21.      7032                   Gerson Asmet Pereira Sarmiento                                     San Gil                             1:58:42          +38:46           10.6 km/h          5:39 Min/km
+20.      7017                   Rafael Andres Gomez Duran                                          Bucaramanga                        1:57:26          +37:30           10.7 km/h          5:35 Min/km
+19.      7039                   Johan Manuel Gonzalez Linares                                     Bucaramanga                        1:55:38          +35:42           10.8 km/h          5:30 Min/km
+18.      7046                   Olith Antonio Ardila Jaimes                                        Mogotes                             1:55:21          +35:25           10.9 km/h          5:29 Min/km
+17.      7022                   Luis Carlos Buitrago Rey                                            Bucaramanga                        1:51:38          +31:42           11.2 km/h          5:18 Min/km
+16.      7015                   Omar Augusto Estupiñan Arguello                                   Socorro                             1:48:01          +28:05           11.6 km/h          5:08 Min/km
+15.      7011                   Hector Tutasaura                                                      Barichara                          1:47:53          +27:57           11.6 km/h          5:08 Min/km
+14.      7033                   Oscar Mauricio Moreno Cardenas                                     San Gil                             1:46:28          +26:32           11.8 km/h          5:04 Min/km
+13.      7048                   Oscar Javier Moreno Velandia                                        San Gil                             1:46:22          +26:26           11.8 km/h          5:03 Min/km
+12.      7012                   Jose Jacinto Muñoz Higuera                                          San Gil                             1:45:49          +25:53           11.9 km/h          5:02 Min/km
+11.      7031                   Oscar Fernando Galan                                                 Bucaramanga                        1:42:06          +22:10           12.3 km/h          4:51 Min/km
+10.      7025                   Oscar Ivan Meneses Otero                                            San Gil                             1:40:32          +20:36           12.5 km/h          4:47 Min/km
+9.        7045                   Fabio Leonardo Delgado                                               San Gil                             1:40:26          +20:30           12.5 km/h          4:46 Min/km
+8.        7026                   Ivan Dario Chacon Suarez                                            San Gil                             1:39:45          +19:49           12.6 km/h          4:45 Min/km
+7.        7030                   David Steward Castiblanco Duarte                                   CUNDINAMARCA                        1:39:12          +19:16           12.6 km/h          4:43 Min/km
+6.        7019                   Sebastian Chacon                                                      San Gil                             1:38:17          +18:21           12.8 km/h          4:40 Min/km
+5.        7001                   Luis Carlos Reina Sanchez                                          San Gil                             1:37:48          +17:52           12.8 km/h          4:39 Min/km
+4.        7027                   Custodio Ortiz Carreño                                               Pinchote                             1:37:47          +17:51           12.8 km/h          4:39 Min/km
+3.        7006                   Henry Mauricio Monsalve Ortiz                                     SANTANDER                          1:30:05          +10:09           13.9 km/h          4:17 Min/km
+2.        7036                   Luis Carlos Tasco                                                    Bucaramanga                        1:26:19          +6:23           14.5 km/h          4:06 Min/km
+1.        6057                   Jesus Hernan Vasquez Ardila                                        Mogotes                             1:19:56          --                15.7 km/h          3:48 Min/km
+Hombres
+DSQ       7013                   Natalia Ortiz Higuera                                               San Gil                                  --            --                       --            --
+6.        7003                   Diana Abigail Sanabria Diaz                                        San Gil                             2:32:55          +42:57            8.2 km/h           7:16 Min/km
+5.        7018                   Alejandra Ruiz                                                        Chía                                 2:09:10          +19:12            9.7 km/h           6:09 Min/km
+4.        7007                   Lady Johana Vargas Rodriguez                                        Charala                             1:59:43          +9:45           10.5 km/h          5:42 Min/km
+3.        7035                   Erica Liliana Becerra Larrota                                     SANTANDER                          1:55:18          +5:20           10.9 km/h          5:29 Min/km
+2.        7002                   Eddy Johanna Ortega G                                               San Gil                             1:54:23          +4:25           11.0 km/h          5:26 Min/km
+1.        7014                   Ana Maria Tinjaca Vargas                                            San Gil                             1:49:58          --                11.4 km/h          5:14 Min/km
+Damas
+21 K MASTER 35
+48.      6031                   Jesus David Garces Diaz                                            BOGOTa. D.C.                        2:38:03          +1:24:42          7.9 km/h           7:31 Min/km
+47.      6024                   Ciro Alfonso                                                           Pinchote                             2:28:50          +1:15:29          8.4 km/h           7:05 Min/km
+46.      6038                   Brahainn Bladimir Gutierrez Bohorquez                            San Gil                             2:23:20          +1:09:59          8.7 km/h           6:49 Min/km
+45.      6016                   Andres Felipe Casas Avila                                          Barbosa                             2:21:53          +1:08:32          8.8 km/h           6:45 Min/km
+44.      6005                   Daniel Herrera                                                        San Gil                             2:15:01          +1:01:40          9.3 km/h           6:25 Min/km
+43.      7034                   Ciro Alfonso Peña Gualdron                                          Pinchote                             2:13:05          +59:44            9.4 km/h           6:20 Min/km
+42.      6017                   Edison Vargas                                                        Socorro                             2:12:48          +59:27            9.4 km/h           6:19 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (1) Break----------------
+3
+47.      2026                   Mayerly Yarith Lopez Ortiz                                          San Gil                             1:10:19          +22:12            8.9 km/h           6:41 Min/km
+46.      2055                   Angy Lorena Lopez Alucema                                          Socorro                             1:10:17          +22:10            8.9 km/h           6:41 Min/km
+45.      2053                   Mayra Alejandra Ortiz Jaimes                                        Bucaramanga                        1:10:17          +22:10            8.9 km/h           6:41 Min/km
+44.      2127                   Luisa Fernanda Monsalve                                            San Gil                             1:10:01          +21:54            8.9 km/h           6:40 Min/km
+43.      2033                   Sandra Liliana Chacon Cardenas                                     Socorro                             1:10:00          +21:53            8.9 km/h           6:40 Min/km
+42.      2086                   Laura Natalia Diaz Collante                                        San Gil                             1:09:44          +21:37            9.0 km/h           6:38 Min/km
+41.      2129                   Adamary Navas Camacho                                               San Gil                             1:09:12          +21:05            9.1 km/h           6:35 Min/km
+40.      2164                   Natali Poveda Carrillo                                               San Gil                             1:09:05          +20:58            9.1 km/h           6:34 Min/km
+39.      2079                   Sashley Michelle Mayorga Oviedo                                   San Gil                             1:09:04          +20:57            9.1 km/h           6:34 Min/km
+38.      2130                   Karen Dayanna Perez Balaguera                                     San Gil                             1:08:52          +20:45            9.1 km/h           6:33 Min/km
+37.      2069                   Raiza Moreno Perez                                                    Barichara                          1:08:37          +20:30            9.1 km/h           6:32 Min/km
+36.      2144                   Nancy Sofia Leon Gomez                                               San Gil                             1:07:55          +19:48            9.2 km/h           6:28 Min/km
+35.      2191                   Marillis Palencia Arrieta                                          San Gil                             1:07:33          +19:26            9.3 km/h           6:26 Min/km
+34.      2054                   Loraynne Meneses                                                      Bucaramanga                        1:07:21          +19:14            9.3 km/h           6:24 Min/km
+33.      2154                   Yesica Paola Torres Contreras                                     San Gil                             1:07:16          +19:09            9.3 km/h           6:24 Min/km
+32.      2131                   Jeydy Katerine Sanchez Uribe                                        Pinchote                             1:07:12          +19:05            9.3 km/h           6:24 Min/km
+31.      2165                   Daniela Alexandra Lancheros Galvis                                 San Gil                             1:06:50          +18:43            9.4 km/h           6:21 Min/km
+30.      2012                   Paula Andrea Villamil Amteus                                        San Gil                             1:06:36          +18:29            9.4 km/h           6:20 Min/km
+29.      2134                   Leidi Yoana Gonzalez Ayala                                          San Gil                             1:06:21          +18:14            9.4 km/h           6:19 Min/km
+28.      2108                   Karen Lorena Garcia Estevez                                        Socorro                             1:05:38          +17:31            9.5 km/h           6:15 Min/km
+27.      2156                   Luisa Fernanda Zambrano Avendaño                                   San Gil                             1:05:12          +17:05            9.6 km/h           6:12 Min/km
+26.      1215                   Marcela Torres Mejia                                                 Bucaramanga                        1:05:09          +17:02            9.6 km/h           6:12 Min/km
+25.      2029                   Nidya Katerine Quintero Salazar                                   Socorro                             1:05:05          +16:58            9.6 km/h           6:11 Min/km
+24.      2009                   Stefi Porras                                                           San Gil                             1:04:24          +16:17            9.7 km/h           6:08 Min/km
+23.      2011                   Linette Florez                                                        Pie de Cuesta                      1:03:51          +15:44            9.8 km/h           6:04 Min/km
+22.      2019                   Karen Dayana Gamboa Mendez                                          San Gil                             1:03:50          +15:43            9.8 km/h           6:04 Min/km
+21.      2021                   Adriana Lucia Martinez Leon                                        Socorro                             1:03:46          +15:39            9.8 km/h           6:04 Min/km
+20.      2122                   Karen Yulieth Florez Gomez                                          Socorro                             1:03:13          +15:06            9.9 km/h           6:01 Min/km
+19.      2013                   Sara Valentina Pinto Patiño                                        San Gil                             1:02:59          +14:52           10.0 km/h          5:59 Min/km
+18.      2080                   Elizabeth Mendez Reyes                                               Charala                             1:01:37          +13:30           10.2 km/h          5:52 Min/km
+17.      2024                   Martha Lucia Duran Galvis                                          San Gil                             1:01:05          +12:58           10.3 km/h          5:49 Min/km
+16.      2001                   Claudia Marcela Carreño Rivero                                     San Gil                             1:00:56          +12:49           10.3 km/h          5:48 Min/km
+15.      2090                   Andrea Prieto                                                        Bogotá                               1:00:44          +12:37           10.3 km/h          5:47 Min/km
+14.      2030                   Jessica Carolina Nieto Silva                                        San Gil                             0:59:23          +11:16           10.6 km/h          5:39 Min/km
+13.      2068                   Paola Sanabria Diaz                                                 Santander                          0:59:20          +11:13           10.6 km/h          5:39 Min/km
+12.      2051                   Bibian Blanco                                                        Villa Nueva                        0:59:12          +11:05           10.6 km/h          5:38 Min/km
+11.      2183                   Erika Lopez Araque                                                    San Gil                             0:58:10          +10:03           10.8 km/h          5:32 Min/km
+10.      2092                   Maria Dayana Sierra Ayala                                          San Gil                             0:57:06          +8:59           11.0 km/h          5:26 Min/km
+9.        2106                   Maria Patricia Mejia Angarita                                     San Gil                             0:56:32          +8:25           11.1 km/h          5:23 Min/km
+8.        2135                   Cindy Yurley Duarte Silva                                          Socorro                             0:54:47          +6:40           11.4 km/h          5:13 Min/km
+7.        2102                   Yeny Marcela Ramirez Aza                                            Piedecuesta                        0:54:27          +6:20           11.5 km/h          5:11 Min/km
+6.        2110                   Sandra Milena Pinzon Becerra                                        Cucuta                               0:54:18          +6:11           11.6 km/h          5:10 Min/km
+5.        2105                   Maria Ximena Diaz Casas                                            San Gil                             0:53:27          +5:20           11.7 km/h          5:05 Min/km
+4.        2111                   Tatiana Vargas                                                        Bucaramanga                        0:52:18          +4:11           12.0 km/h          4:58 Min/km
+3.        2039                   Lizeth Fernanda Murillo Pinto                                     Ocamonte                             0:49:15          +1:08           12.7 km/h          4:41 Min/km
+2.        2089                   Adriana Mildred Garcia Rueda                                        San Gil                             0:49:07          +1:00           12.8 km/h          4:40 Min/km
+1.        3044                   Dary Garces                                                           San Gil                             0:48:07          --                13.0 km/h          4:34 Min/km
+Damas
+10 K ABIERTA
+DSQ       7044                   Juan Carlos Torres Rodriguez                                        San Gil                                  --            --                       --            --
+DSQ       7043                   William Celis Cadena                                                 Bucaramanga                             --            --                       --            --
+38.      7024                   German Andres Garzon Valdivieso                                   Cali                                 2:38:01          +1:18:05          7.9 km/h           7:31 Min/km
+37.      7008                   Javier Acevedo Martinez                                            San Gil                             2:23:11          +1:03:15          8.7 km/h           6:49 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (2) Break----------------
+4
+5.        2103                   Wislton Felipe Ceballos Jaimes                                     Pie de Cuesta                      0:44:08          +3:34           14.2 km/h          4:12 Min/km
+4.        2016                   Jhon Jairo Pinto Esteves                                            San Gil                             0:43:11          +2:37           14.5 km/h          4:06 Min/km
+3.        3022                   Camilo Andres Corzo Rodriguez                                     Valle de San Jose                 0:42:24          +1:50           14.8 km/h          4:02 Min/km
+2.        2216                   Andres Felipe Pineda Perez                                          Villanueva                          0:41:45          +1:11           15.0 km/h          3:58 Min/km
+1.        2198                   Faben Rodriguez                                                      Barichara                          0:40:34          --                15.5 km/h          3:51 Min/km
+Hombres
+95.      2188                   Paula Andrea Cruz Garcia                                            San Gil                             1:40:36          +52:29            6.2 km/h           9:34 Min/km
+94.      2060                   Kelly Johana Tapias De Leon                                        Valledupar                          1:40:22          +52:15            6.2 km/h           9:33 Min/km
+93.      2139                   Juan Felipe Lamus                                                    Bucaramanga                        1:35:39          +47:32            6.5 km/h           9:06 Min/km
+92.      2148                   Laura Valentina Castro Arias                                        San Gil                             1:32:18          +44:11            6.8 km/h           8:47 Min/km
+91.      2059                   Natalia Rozo Niño                                                    Socorro                             1:31:44          +43:37            6.8 km/h           8:44 Min/km
+90.      2010                   Cindy Juliana Garcia Gomez                                          Villanueva                          1:30:15          +42:08            6.9 km/h           8:35 Min/km
+89.      2187                   Lizeth Alejandra Ramirez Nieto                                     San Gil                             1:29:32          +41:25            7.0 km/h           8:31 Min/km
+88.      2149                   Leidy Tatiana Ayala Garces                                          Bucaramanga                        1:28:30          +40:23            7.1 km/h           8:25 Min/km
+87.      2213                   Guadalupe Galvis Cardenas                                          Bucaramanga                        1:28:25          +40:18            7.1 km/h           8:25 Min/km
+86.      2170                   Danna Sarai Gomez Parra                                            San Gil                             1:28:15          +40:08            7.1 km/h           8:24 Min/km
+85.      2168                   Eliana Salamanca                                                      Bucaramanga                        1:28:00          +39:53            7.1 km/h           8:22 Min/km
+84.      2159                   Ana Hernandez                                                        Bucaramanga                        1:27:49          +39:42            7.1 km/h           8:21 Min/km
+83.      2074                   Yulieth Andrea Gutierrez Santos                                   Palmas Del Socorro                 1:26:13          +38:06            7.3 km/h           8:12 Min/km
+82.      2034                   Sarah Pinzon Gonzalez                                               Socorro                             1:25:49          +37:42            7.3 km/h           8:10 Min/km
+81.      2136                   Karen Julieth Quintero Gualdron                                   San Gil                             1:25:26          +37:19            7.3 km/h           8:08 Min/km
+80.      2035                   Diana Valentina Galindo Acevedo                                   Tunja                               1:24:26          +36:19            7.4 km/h           8:02 Min/km
+79.      2018                   Lizbeth Liliana Figueredo Palacio                                 Bucaramanga                        1:22:10          +34:03            7.6 km/h           7:49 Min/km
+78.      2017                   Andrea Catalina Ruiz Rondon                                        Bucaramanga                        1:22:09          +34:02            7.6 km/h           7:49 Min/km
+77.      2022                   Sandy Julieth Jimenez Calderon                                     Coromoro                             1:21:57          +33:50            7.6 km/h           7:48 Min/km
+76.      2083                   Camila Bermudez                                                      Socorro                             1:21:40          +33:33            7.7 km/h           7:46 Min/km
+75.      2152                   Juslandy Marcela Rueda Bueno                                        San Gil                             1:19:24          +31:17            7.9 km/h           7:33 Min/km
+74.      2217                   Maria Camila Santos Camargo                                        San Gil                             1:19:07          +31:00            7.9 km/h           7:32 Min/km
+73.      2066                   Ana Maria Garzon Olarte                                            Cali                                 1:19:04          +30:57            7.9 km/h           7:31 Min/km
+72.      2041                   Dara Daniela Sastre Martinez                                        Bogota                               1:18:53          +30:46            7.9 km/h           7:30 Min/km
+71.      2008                   Paula Andrea Gomez Fuentes                                          San Gil                             1:18:20          +30:13            8.0 km/h           7:27 Min/km
+70.      2195                   Astrid Niño                                                           San Gil                             1:18:02          +29:55            8.0 km/h           7:25 Min/km
+69.      2128                   Laura Naomi Meneses Fontecha                                        San Gil                             1:17:36          +29:29            8.1 km/h           7:23 Min/km
+68.      2043                   Paula Amaya                                                           San Gil                             1:17:20          +29:13            8.1 km/h           7:21 Min/km
+67.      2158                   Natalia Castillo                                                      Ocaña                               1:17:14          +29:07            8.1 km/h           7:21 Min/km
+66.      2147                   Natalia Riveros Ibañez                                               San Gil                             1:16:28          +28:21            8.2 km/h           7:16 Min/km
+65.      2205                   Ana Sofia Lozada Morales                                            Bucaramanga                        1:16:00          +27:53            8.2 km/h           7:14 Min/km
+64.      2000                   Daniela Serrano Tristancho                                          San Gil                             1:15:24          +27:17            8.3 km/h           7:10 Min/km
+63.      2181                   Jessica Johanna Becerra Luque                                     Bucaramanga                        1:15:18          +27:11            8.3 km/h           7:10 Min/km
+62.      2138                   Katherynn Andrea Ortiz Torres                                                                           1:15:13          +27:06            8.3 km/h           7:09 Min/km
+61.      2071                   Maria Paula Noriega                                                 San Gil                             1:15:09          +27:02            8.3 km/h           7:09 Min/km
+60.      2160                   Libeth Mariana Vargas Suarez                                        San Gil                             1:14:57          +26:50            8.4 km/h           7:08 Min/km
+59.      2072                   Jessica Daniela Guevara Salazar                                   Socorro                             1:14:36          +26:29            8.4 km/h           7:06 Min/km
+58.      2065                   Ivonne Fabiana Gutierrez Arciniegas                              San Gil                             1:14:14          +26:07            8.4 km/h           7:04 Min/km
+57.      2104                   Angie Elizabeth Olarte Fuentes                                     Guepsa                               1:14:04          +25:57            8.5 km/h           7:03 Min/km
+56.      2073                   Erika Rocio Bueno Forero                                            San Gil                             1:13:54          +25:47            8.5 km/h           7:02 Min/km
+55.      1177                   Lizzeth Damaris Acevedo Niño                                        SAN GIL                             1:13:49          +25:42            8.5 km/h           7:01 Min/km
+54.      2124                   Luisa Fernanda Camacho Rodriguez                                   Socorro                             1:13:48          +25:41            8.5 km/h           7:01 Min/km
+53.      2056                   Marcela Osorio                                                        Socorro                             1:12:24          +24:17            8.7 km/h           6:53 Min/km
+52.      2109                   Karina Ortiz Porras                                                 San Gil                             1:11:50          +23:43            8.7 km/h           6:50 Min/km
+51.      2186                   Ana Maria Otero Santos                                               San Gil                             1:11:26          +23:19            8.8 km/h           6:48 Min/km
+50.      2145                   Alexandra Milena Hernandez Blanco                                 San Gil                             1:11:20          +23:13            8.8 km/h           6:47 Min/km
+49.      2140                   Lina Fernanda Martinez figueroa                                   San Gil                             1:10:52          +22:45            8.8 km/h           6:44 Min/km
+48.      2027                   Maria Angelica Johana Forero Gomez                                 Bucaramanga                        1:10:42          +22:35            8.9 km/h           6:44 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (3) Break----------------
+5
+59.      2004                   Andres Felipe Monroy Villamil                                     San Gil                             0:58:34          +18:00           10.7 km/h          5:34 Min/km
+58.      2174                   Diego Estupiñan                                                      San Gil                             0:58:33          +17:59           10.7 km/h          5:34 Min/km
+57.      2185                   Fabian Armando Tiriat Ferreira                                     San Gil                             0:58:30          +17:56           10.7 km/h          5:34 Min/km
+56.      2209                   Andre Julian Estupiñan Ortiz                                        Bucaramanga                        0:58:26          +17:52           10.7 km/h          5:33 Min/km
+55.      2045                   Julian David Santana Porras                                        Bucaramanga                        0:58:16          +17:42           10.8 km/h          5:32 Min/km
+54.      2123                   Bayron Elian Cala Vesga                                            Socorro                             0:58:10          +17:36           10.8 km/h          5:32 Min/km
+53.      2100                   Eduardo Jose Plata Santos                                                                                0:58:08          +17:34           10.8 km/h          5:32 Min/km
+52.      2199                   Leonel Gerardo Rueda Garcia                                        Socorro                             0:58:05          +17:31           10.8 km/h          5:31 Min/km
+51.      2119                   Santiago Andres Moreno Roman                                        Bucaramanga                        0:57:22          +16:48           10.9 km/h          5:27 Min/km
+50.      2177                   Jhan Carlos Moreno Ortiz                                            San Gil                             0:57:11          +16:37           11.0 km/h          5:26 Min/km
+49.      2088                   Daniel Felipe Peñaloza Lamo                                                                              0:57:06          +16:32           11.0 km/h          5:26 Min/km
+48.      2076                   Oscar Fernando Millan Ruiz                                          Bucaramanga                        0:57:04          +16:30           11.0 km/h          5:26 Min/km
+47.      2151                   Sergio Augusto Bermudez Ochoa                                     Socorro                             0:56:38          +16:04           11.1 km/h          5:23 Min/km
+46.      2057                   Jhon Andres Corzo Baron                                            San Gil                             0:56:31          +15:57           11.1 km/h          5:22 Min/km
+45.      2099                   Yilder Suarez                                                        San Gil                             0:56:22          +15:48           11.1 km/h          5:22 Min/km
+44.      2058                   Harryton Hernandez Reyes                                            San Gil                             0:55:32          +14:58           11.3 km/h          5:17 Min/km
+43.      2096                   Federico Noriega Wandurraga                                        San Gil                             0:55:18          +14:44           11.3 km/h          5:16 Min/km
+42.      2031                   Andrey Carreño                                                        San Gil                             0:55:12          +14:38           11.4 km/h          5:15 Min/km
+41.      2150                   Darwin Yesid Ramirez Carreño                                        Aratoca                             0:55:04          +14:30           11.4 km/h          5:14 Min/km
+40.      2207                   Andres Camilo Galvis Morales                                        Bucaramanga                        0:54:45          +14:11           11.5 km/h          5:12 Min/km
+39.      2193                   Gustavo Javier Rios                                                 San Gil                             0:54:40          +14:06           11.5 km/h          5:12 Min/km
+38.      2097                   Mateo Caicedo                                                        Bucaramanga                        0:54:38          +14:04           11.5 km/h          5:12 Min/km
+37.      2162                   Sergio Andres Garcia Vargas                                        Socorro                             0:54:24          +13:50           11.5 km/h          5:10 Min/km
+36.      2196                   Luis Alejandro Gonzalez Rico                                                                              0:54:10          +13:36           11.6 km/h          5:09 Min/km
+35.      2115                   Juan Sebastian Rios Ardila                                          Socorro                             0:53:47          +13:13           11.7 km/h          5:07 Min/km
+34.      2002                   Cristian Jesus Arenas Hernandez                                   San Gil                             0:53:47          +13:13           11.7 km/h          5:07 Min/km
+33.      2087                   Santiago Peñaloza Rios                                               Tunja                               0:53:34          +13:00           11.7 km/h          5:06 Min/km
+32.      2143                   Delvis Esteban Cespedes Monsalve                                   San Gil                             0:53:20          +12:46           11.8 km/h          5:04 Min/km
+31.      2190                   Cristian Ferney Remolina Torres                                   San Gil                             0:53:10          +12:36           11.8 km/h          5:03 Min/km
+30.      2153                   Jose Luis Torres lagos                                               San Gil                             0:53:03          +12:29           11.8 km/h          5:03 Min/km
+29.      2093                   Daniel Mauricio Cadena                                               San Gil                             0:51:53          +11:19           12.1 km/h          4:56 Min/km
+28.      2098                   Santiago Parra                                                        Bogotá                               0:51:25          +10:51           12.2 km/h          4:53 Min/km
+27.      2121                   Juan Jose Rojas                                                      San Gil                             0:51:25          +10:51           12.2 km/h          4:53 Min/km
+26.      2118                   Carlos Miguel Paez                                                    Bucaramanga                        0:51:21          +10:47           12.2 km/h          4:53 Min/km
+25.      2070                   Juan Felipe Mendez Morales                                          San Gil                             0:51:15          +10:41           12.2 km/h          4:52 Min/km
+24.      2176                   Jorge Leonardo Cuy Patiño                                          San Gil                             0:51:10          +10:36           12.3 km/h          4:52 Min/km
+23.      2062                   Yeison Alberto Torres Bayona                                        San Gil                             0:50:54          +10:20           12.3 km/h          4:50 Min/km
+22.      2049                   Daniel Suarez Ochoa                                                 Santander                          0:50:20          +9:46           12.5 km/h          4:47 Min/km
+21.      2197                   Juan Gabriel Espinel                                                 San Gil                             0:50:16          +9:42           12.5 km/h          4:47 Min/km
+20.      2202                   Luengas Santamaria Sebastian                                        Barbosa                             0:49:27          +8:53           12.7 km/h          4:42 Min/km
+19.      2214                   Josue Daniel Medina Ramos                                          Bucaramanga                        0:49:26          +8:52           12.7 km/h          4:42 Min/km
+18.      2036                   Carlos Andres Cañon Molina                                          Tunja                               0:49:20          +8:46           12.7 km/h          4:41 Min/km
+17.      2020                   Duvan Duran                                                           Bucaramanga                        0:49:12          +8:38           12.8 km/h          4:41 Min/km
+16.      2173                   Joendri Jose Cortez morales                                        San Gil                             0:48:50          +8:16           12.8 km/h          4:39 Min/km
+15.      2137                   Kevin Nicolas Verdugo Jurado                                        Bucaramanga                        0:48:40          +8:06           12.9 km/h          4:38 Min/km
+14.      2040                   Andres Sanchez                                                        Santander                          0:47:32          +6:58           13.2 km/h          4:31 Min/km
+13.      2146                   Ciro Alfonso Arciniegas Galvis                                     San Gil                             0:47:31          +6:57           13.2 km/h          4:31 Min/km
+12.      2114                   Edwin Alexis Sandoval Ardila                                        Socorro                             0:47:17          +6:43           13.3 km/h          4:30 Min/km
+11.      2044                   Diego Lopez                                                           Barichara                          0:47:07          +6:33           13.3 km/h          4:29 Min/km
+10.      2094                   Yobani Andres Hernandez Delgado                                                                         0:46:43          +6:09           13.4 km/h          4:26 Min/km
+9.        2047                   John Jairo Bernal Garavito                                          Pinchote                             0:46:33          +5:59           13.5 km/h          4:26 Min/km
+8.        2084                   William Horacio Ardila Aparicio                                   El Paramo                          0:45:48          +5:14           13.7 km/h          4:21 Min/km
+7.        2204                   Sergio Andres Torres Florez                                        Bucaramanga                        0:45:15          +4:41           13.9 km/h          4:18 Min/km
+6.        2077                   Juan David Jerez                                                                                            0:44:52          +4:18           14.0 km/h          4:16 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (4) Break----------------
+6
+DSQ       2203                   Tomas Santiago Badillo Santana                                     San Gil                                  --            --                       --            --
+DSQ       2063                   Jhansen Orlando Arroyave Ardila                                   San Gil                                  --            --                       --            --
+110.       2042                   Luis Alejandro Rivero Villamizar                                   San Gil                             1:29:09          +48:35            7.0 km/h           8:29 Min/km
+109.       2212                   Jimmy Alejandro Rivera Fontecha                                   Bucaramanga                        1:28:25          +47:51            7.1 km/h           8:25 Min/km
+108.       2061                   Sebastian Rojas Carreño                                            San Gil                             1:21:53          +41:19            7.6 km/h           7:47 Min/km
+107.       2218                   Jhon Fredy Santos Amaya                                            San Gil                             1:19:07          +38:33            7.9 km/h           7:32 Min/km
+106.       2085                   Bhrayam Gonzalo Rojas Carreño                                     San Gil                             1:18:17          +37:43            8.0 km/h           7:27 Min/km
+105.       2194                   Daniel Esteban Camargo                                               San Gil                             1:18:08          +37:34            8.0 km/h           7:26 Min/km
+104.       2113                   Camilo Andres Ruiz Delgado                                          Socorro                             1:17:51          +37:17            8.0 km/h           7:24 Min/km
+103.       2003                   Juan Manuel Duran                                                    San Gil                             1:17:42          +37:08            8.1 km/h           7:24 Min/km
+102.       4037                   Heli Javier Lopez Quintero                                          Aratoca                             1:16:48          +36:14            8.2 km/h           7:18 Min/km
+101.       2046                   Fabio Andres Daza                                                    Socorro                             1:16:25          +35:51            8.2 km/h           7:16 Min/km
+100.       2178                   Luis Alfonso Suarez Alba                                            Bucaramanga                        1:16:14          +35:40            8.2 km/h           7:15 Min/km
+99.      2141                   Davinson Cristancho                                                 San Gil                             1:14:34          +34:00            8.4 km/h           7:06 Min/km
+98.      2155                   Nestor Javier Rodriguez Monsalve                                   San Gil                             1:13:05          +32:31            8.6 km/h           6:57 Min/km
+97.      2091                   Andres Cortes                                                        Bogota                               1:12:48          +32:14            8.6 km/h           6:56 Min/km
+96.      2048                   Braian Hernandez                                                      Corocó                               1:11:57          +31:23            8.7 km/h           6:51 Min/km
+95.      2052                   Camilo Jose Goyeneche Mejia                                        San Gil                             1:11:52          +31:18            8.7 km/h           6:50 Min/km
+94.      2005                   Franquin Arturo Ayala Muñoz                                        San Gil                             1:11:28          +30:54            8.8 km/h           6:48 Min/km
+93.      2028                   Ivan Rene Sandoval Guarin                                          Bucaramanga                        1:10:43          +30:09            8.9 km/h           6:44 Min/km
+92.      2192                   William Dario Silva Cely                                            Villanueva                          1:10:09          +29:35            8.9 km/h           6:40 Min/km
+91.      2075                   Johan Sebastian Celis Mejia                                        San Gil                             1:09:51          +29:17            9.0 km/h           6:39 Min/km
+90.      2037                   Diego Fernando Benitez Mora                                        Tunja                               1:09:48          +29:14            9.0 km/h           6:38 Min/km
+89.      2006                   Nelson Danilo Rivera Rojas                                          San Gil                             1:09:24          +28:50            9.0 km/h           6:36 Min/km
+88.      2007                   Andres Felipe Gomez Pinzon                                          San Gil                             1:07:57          +27:23            9.2 km/h           6:28 Min/km
+87.      2025                   Jhon Jairo Niño Cardenas                                            Bucaramanga                        1:07:35          +27:01            9.3 km/h           6:26 Min/km
+86.      2182                   Elkin Ferney Gomez Reyes                                            San Gil                             1:07:12          +26:38            9.3 km/h           6:24 Min/km
+85.      2116                   Javier Galvis                                                        San Gil                             1:06:59          +26:25            9.4 km/h           6:22 Min/km
+84.      2132                   Orlando Delgado Ortiz                                               San Gil                             1:06:45          +26:11            9.4 km/h           6:21 Min/km
+83.      2175                   Alexander Pinto                                                      Bucaramanga                        1:06:05          +25:31            9.5 km/h           6:17 Min/km
+82.      2067                   Orlando Yesid Lopez Vargas                                          San Gil                             1:05:46          +25:12            9.5 km/h           6:15 Min/km
+81.      2078                   Andres Jose Hurtado                                                 San Gil                             1:04:58          +24:24            9.6 km/h           6:11 Min/km
+80.      2107                   Daniel Santiago Herrera Hurtado                                   Socorro                             1:04:55          +24:21            9.7 km/h           6:10 Min/km
+79.      2163                   Diego Armando Linares Martinez                                     San Gil                             1:04:28          +23:54            9.7 km/h           6:08 Min/km
+78.      2201                   Miguel Fernando Rugeles                                            Socorro                             1:03:50          +23:16            9.8 km/h           6:04 Min/km
+77.      2064                   Diego Francisco Esteban Leon                                        Bucaramanga                        1:03:42          +23:08            9.8 km/h           6:04 Min/km
+76.      2200                   Luis Eduardo Duarte Perdomo                                        Socorro                             1:03:42          +23:08            9.8 km/h           6:04 Min/km
+75.      2081                   Ivan Camilo Gonzalez Salamanca                                     Bucaramanga                        1:03:27          +22:53            9.9 km/h           6:02 Min/km
+74.      2126                   Jhon Alexander Leon Ardila                                          San Gil                             1:03:18          +22:44            9.9 km/h           6:01 Min/km
+73.      2082                   Michael Ramirez Gonzalez                                            San Gil                             1:02:42          +22:08           10.0 km/h          5:58 Min/km
+72.      2112                   Jonathan Fabian Acosta Garcia                                     Socorro                             1:02:29          +21:55           10.0 km/h          5:57 Min/km
+71.      2117                   Daniel Adarme                                                        Aratoca                             1:02:07          +21:33           10.1 km/h          5:55 Min/km
+70.      2050                   Wilson David Ardila Quintero                                        San Gil                             1:01:50          +21:16           10.1 km/h          5:53 Min/km
+69.      2023                   Maria Fernanda Barajas Abril                                        Bucaramanga                        1:01:40          +21:06           10.2 km/h          5:52 Min/km
+68.      2125                   Duvan Andres Tavera Mantilla                                        San Gil                             1:01:22          +20:48           10.2 km/h          5:50 Min/km
+67.      2166                   Sergio Ivan Delgado Macias                                          San Gil                             1:01:18          +20:44           10.2 km/h          5:50 Min/km
+66.      1175                   Omar Fernando Chaparro Bayona                                     SAN GIL                             1:01:16          +20:42           10.2 km/h          5:50 Min/km
+65.      2101                   Nicolas Romero Mateus                                               Socorro                             1:00:31          +19:57           10.4 km/h          5:45 Min/km
+64.      2015                   Heli Javier Lopez Quintero                                          Santander                          1:00:04          +19:30           10.4 km/h          5:43 Min/km
+63.      2184                   Fabian Aurelio Rozo Jaimes                                          San Gil                             1:00:00          +19:26           10.4 km/h          5:42 Min/km
+62.      2032                   Sergio Miguel Diaz Velasco                                          San Gil                             0:59:31          +18:57           10.5 km/h          5:40 Min/km
+61.      2161                   Andres Mauricio Caceres Morales                                   San Gil                             0:59:18          +18:44           10.6 km/h          5:38 Min/km
+60.      2210                   Juan Sebastian Gamarra                                               Bucaramanga                        0:59:16          +18:42           10.6 km/h          5:38 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (5) Break----------------
+7
+18.      3065                   Sergio  Silva                                                        San Gil                             0:52:56          +14:06           11.9 km/h          5:02 Min/km
+17.      3002                   Mario Andres Barrera Vasquez                                        San Gil                             0:52:30          +13:40           11.9 km/h          5:00 Min/km
+16.      3048                   Leonardo Leon                                                        San Gil                             0:52:26          +13:36           12.0 km/h          4:59 Min/km
+15.      3058                   Diego Andres Sanmiguel Vargas                                     Bucaramanga                        0:51:08          +12:18           12.3 km/h          4:52 Min/km
+14.      3049                   Jair Alfonso Lozano Tamy                                            Bogota                               0:51:08          +12:18           12.3 km/h          4:52 Min/km
+13.      3008                   Edinson Villar Suarez                                               San Gil                             0:51:04          +12:14           12.3 km/h          4:51 Min/km
+12.      3073                   Miguel Angel Rojas Blanco                                          San Gil                             0:51:00          +12:10           12.3 km/h          4:51 Min/km
+11.      3066                   Jose Chacon Zambrano                                                 San Gil                             0:50:44          +11:54           12.4 km/h          4:49 Min/km
+10.      3056                   Elkin Yezid Zambrano Diaz                                          San Gil                             0:50:32          +11:42           12.4 km/h          4:48 Min/km
+9.        3031                   Mauricio Rojas Rodriguez                                            San Gil                             0:50:15          +11:25           12.5 km/h          4:47 Min/km
+8.        3027                   Juan Manuel Goyeneche Mejia                                        San Gil                             0:48:55          +10:05           12.8 km/h          4:39 Min/km
+7.        3082                   Lennyn Miguel Laguado Buitrago                                     Socorro                             0:48:09          +9:19           13.0 km/h          4:35 Min/km
+6.        3012                   Victor Alfonso Triana Rincon                                        San Gil                             0:45:41          +6:51           13.7 km/h          4:21 Min/km
+5.        3089                   Ivan Dario Bayona Ardila                                            San Gil                             0:44:35          +5:45           14.1 km/h          4:14 Min/km
+4.        3004                   Fabio Ruiz                                                             Artoca                               0:41:20          +2:30           15.2 km/h          3:56 Min/km
+3.        3029                   Angel Andres Sanabria Romero                                        Bucaramanga                        0:39:24          +34              15.9 km/h          3:45 Min/km
+2.        3051                   Leonel Raul Pinzon Pinto                                            Mogotes                             0:39:16          +26              16.0 km/h          3:44 Min/km
+1.        3098                   Javier Montañes Celis                                               San Gil                             0:38:50          --                16.2 km/h          3:41 Min/km
+Hombres
+32.      3015                   Ludy Marcela Calderon Caceres                                     San Gil                             1:26:03          +34:55            7.3 km/h           8:11 Min/km
+31.      3055                   Diana Patricia Caceres Torres                                     Oicata                               1:24:48          +33:40            7.4 km/h           8:04 Min/km
+30.      3091                   Monica Andrea Gomez Alvarado                                        Bucaramanga                        1:23:06          +31:58            7.5 km/h           7:54 Min/km
+29.      3078                   Dalia Inés Ribero                                                    San Gil                             1:22:07          +30:59            7.6 km/h           7:49 Min/km
+28.      3097                   Arely Milena Rodriguez Uribe                                        Bucaramanga                        1:21:50          +30:42            7.6 km/h           7:47 Min/km
+27.      3070                   Angela Paulina Bello Rodriguez                                     San Gil                             1:16:57          +25:49            8.1 km/h           7:19 Min/km
+26.      3043                   Yenny Andrea Ferro Muñoz                                            San Gil                             1:15:52          +24:44            8.3 km/h           7:13 Min/km
+25.      3030                   Patricia Morales                                                      San Gil                             1:15:23          +24:15            8.3 km/h           7:10 Min/km
+24.      3071                   Leydi Bibiana Ruiz Cruz                                            San Gil                             1:14:21          +23:13            8.4 km/h           7:04 Min/km
+23.      3040                   Virgelina Lascano De Horta                                          Socorro                             1:14:15          +23:07            8.4 km/h           7:04 Min/km
+22.      3096                   Elizabeth Silva Triana                                               San Gil                             1:12:48          +21:40            8.6 km/h           6:56 Min/km
+21.      3069                   Yuli Alejandra Jojoa Burbano                                        San Gil                             1:11:53          +20:45            8.7 km/h           6:50 Min/km
+20.      3064                   Leidy Leonor Solano Pico                                            Charala                             1:11:46          +20:38            8.7 km/h           6:50 Min/km
+19.      3007                   Rita Zuleine Camacho Acosta                                        San Gil                             1:11:04          +19:56            8.8 km/h           6:46 Min/km
+18.      3032                   Johanna Maria Olarte Barco                                          Cali                                 1:10:45          +19:37            8.9 km/h           6:44 Min/km
+17.      3000                   Adriana Consuelo Fonce Sarmiento                                   San Gil                             1:10:26          +19:18            8.9 km/h           6:42 Min/km
+16.      3005                   Johanna Gomez                                                        Socorro                             1:09:56          +18:48            9.0 km/h           6:39 Min/km
+15.      3087                   Maria Rosa Cardenas Wandurraga                                     San Gil                             1:09:40          +18:32            9.0 km/h           6:38 Min/km
+14.      3050                   Mayuli Cardenas                                                      Bucaramanga                        1:09:13          +18:05            9.1 km/h           6:35 Min/km
+13.      3093                   Paola Carolina Monsalve Jimenez                                   Socorro                             1:09:00          +17:52            9.1 km/h           6:34 Min/km
+12.      3075                   Alba Julieth Oviedo Gamboa                                          Bucaramanga                        1:05:41          +14:33            9.5 km/h           6:15 Min/km
+11.      3094                   Lyda Johanna Ruiz Ortiz                                            Bucaramanga                        1:04:44          +13:36            9.7 km/h           6:09 Min/km
+10.      3077                   Wendy Carolina Rivera Rodriguez                                   Bucaramanga                        1:04:22          +13:14            9.7 km/h           6:07 Min/km
+9.        3021                   Keila Jhohana Rodriguez Perez                                     Valle de San Jose                 1:01:14          +10:06           10.2 km/h          5:49 Min/km
+8.        3042                   Nathalia Lizzeth Otero                                               San Gil                             1:01:07          +9:59           10.3 km/h          5:49 Min/km
+7.        3086                   Mariana Porras Martinez                                            San Gil                             0:59:23          +8:15           10.6 km/h          5:39 Min/km
+6.        3035                   Carolina Torres Uribe                                               San Gil                             0:58:30          +7:22           10.7 km/h          5:34 Min/km
+5.        3084                   Sandra Milena Vesga Rueda                                          San Gil                             0:57:55          +6:47           10.8 km/h          5:30 Min/km
+4.        3046                   Disbey Ariza Umaña                                                                                          0:57:53          +6:45           10.8 km/h          5:30 Min/km
+3.        2133                   Leidy Fabiola Torres Uribe                                          San Gil                             0:56:37          +5:29           11.1 km/h          5:23 Min/km
+2.        3057                   Sofia Anaya Mendez                                                    Bucaramanga                        0:52:26          +1:18           12.0 km/h          4:59 Min/km
+1.        3059                   Nathalia Gomez Calderon                                            Bucaramanga                        0:51:08          --                12.3 km/h          4:52 Min/km
+Damas
+10 K MASTER 35
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (6) Break----------------
+8
+10.      4022                   Sandra Milena Neira Camacho                                        San Gil                             1:13:39          +27:56            8.5 km/h           7:00 Min/km
+9.        4014                   Vivian Isaura Lopez Santamaria                                     Bucaramanga                        1:13:15          +27:32            8.6 km/h           6:58 Min/km
+8.        4023                   Doris Janeth Benitez Silva                                          San Gil                             1:12:14          +26:31            8.7 km/h           6:52 Min/km
+7.        4007                   Aurora Pinzon Gomez                                                 Palmas Del Socorro                 1:09:31          +23:48            9.0 km/h           6:37 Min/km
+6.        4010                   Clara Emilse Diaz Albino                                            Socorro                             1:03:45          +18:02            9.8 km/h           6:04 Min/km
+5.        4016                   Haydee Lopez Ribero                                                 Socorro                             1:03:30          +17:47            9.9 km/h           6:02 Min/km
+4.        4029                   Hortencia Cuadros Cuadros                                          Bucaramanga                        1:01:48          +16:05           10.1 km/h          5:53 Min/km
+3.        4015                   Fanny Garcia Porras                                                 San Gil                             1:01:38          +15:55           10.2 km/h          5:52 Min/km
+2.        4002                   Sandra Milena Muñoz Higuera                                        Palmas Del Socorro                 0:57:50          +12:07           10.8 km/h          5:30 Min/km
+1.        4003                   Sandra Lucia Franco Guerrero                                        Moniquira                          0:45:43          --                13.7 km/h          4:21 Min/km
+Damas
+10 K MASTER 45
+59.      3047                   Jorge Ramirez                                                        Socorro                             1:31:46          +52:56            6.8 km/h           8:44 Min/km
+58.      3062                   Fabio Meneses Garcia                                                 San Gil                             1:25:25          +46:35            7.3 km/h           8:08 Min/km
+57.      3067                   Feisal Antonio Bayona Solano                                        San Gil                             1:23:37          +44:47            7.5 km/h           7:57 Min/km
+56.      3100                   Lineira Rueda Vargas                                                 Bucaramanga                        1:18:25          +39:35            8.0 km/h           7:28 Min/km
+55.      3041                   German Andres Duran Moreno                                                                                1:14:32          +35:42            8.4 km/h           7:05 Min/km
+54.      3011                   Deifar Jahel Rincon                                                 San Gil                             1:13:39          +34:49            8.5 km/h           7:00 Min/km
+53.      3061                   John Vargas                                                           Socorro                             1:13:38          +34:48            8.5 km/h           7:00 Min/km
+52.      3023                   Adrian Bueno Pineda                                                 San Gil                             1:10:31          +31:41            8.9 km/h           6:42 Min/km
+51.      3068                   Nestor Julian Bautista Alvarez                                     San Gil                             1:09:10          +30:20            9.1 km/h           6:35 Min/km
+50.      3016                   Jose Alexsander Santos Correa                                     San Gil                             1:09:08          +30:18            9.1 km/h           6:35 Min/km
+49.      3099                   Henry Alonso Delgado                                                 Pinchote                             1:06:31          +27:41            9.4 km/h           6:20 Min/km
+48.      3033                   Camilo Fernando Araque Tellez                                     San Gil                             1:06:27          +27:37            9.4 km/h           6:19 Min/km
+47.      3074                   Carlos Pinzon                                                        Barranca                             1:06:11          +27:21            9.5 km/h           6:18 Min/km
+46.      3081                   Javier Fernando Calderon Silva                                     Santander                          1:05:55          +27:05            9.5 km/h           6:16 Min/km
+45.      3092                   Jairo Alberto Moreno Rincon                                        Buaramanga                          1:04:48          +25:58            9.7 km/h           6:10 Min/km
+44.      3018                   Jorge Leonardo Salazar Agredo                                     Palmas Del Socorro                 1:04:14          +25:24            9.8 km/h           6:07 Min/km
+43.      3036                   Jorge Peñaloza                                                        San Gil                             1:04:01          +25:11            9.8 km/h           6:05 Min/km
+42.      3063                   Ciro Alfonso Ortiz                                                    San Gil                             1:03:40          +24:50            9.8 km/h           6:03 Min/km
+41.      3028                   Eduard Andrey Ramos Silva                                          Bucaramanga                        1:03:13          +24:23            9.9 km/h           6:01 Min/km
+40.      3003                   Hemersson Delgado Lopez                                            Bucaramanga                        1:02:23          +23:33           10.0 km/h          5:56 Min/km
+39.      3001                   Mauricio Amado                                                        San Gil                             1:01:52          +23:02           10.1 km/h          5:53 Min/km
+38.      3083                   Jhon Jairo Maldonado                                                 San Gil                             1:01:51          +23:01           10.1 km/h          5:53 Min/km
+37.      3009                   Jose Reinaldo Arguello Quintero                                   Bucaramanga                        1:01:44          +22:54           10.2 km/h          5:52 Min/km
+36.      3054                   Cesar Alfonso Porras Melgarejo                                                                           1:01:09          +22:19           10.3 km/h          5:49 Min/km
+35.      3095                   Juan Camilo Carlier Viviescas                                     Sangil                               1:00:53          +22:03           10.3 km/h          5:47 Min/km
+34.      3076                   Isai Eliud Delgado Reyes                                            Bucaramanga                        0:59:18          +20:28           10.6 km/h          5:38 Min/km
+33.      6045                   Juan Sebastian Ramirez Pradilla                                   Bucaramanga                        0:58:53          +20:03           10.6 km/h          5:36 Min/km
+32.      3038                   Carlos Enrique Galvis Ballesteros                                 San Gil                             0:58:35          +19:45           10.7 km/h          5:34 Min/km
+31.      3024                   Jose Gabriel Girata Pico                                            San Gil                             0:58:30          +19:40           10.7 km/h          5:34 Min/km
+30.      3060                   Ivan Camilo Baracaldo Santamaria                                   Bucaramanga                        0:58:07          +19:17           10.8 km/h          5:32 Min/km
+29.      3034                   Jaime Andres Villamil Garcia                                        Socorro                             0:58:06          +19:16           10.8 km/h          5:32 Min/km
+28.      3025                   Edward Carrillo                                                      Socorro                             0:57:56          +19:06           10.8 km/h          5:31 Min/km
+27.      3019                   Pablo Cesar Alonso Rincon                                                                                0:57:47          +18:57           10.9 km/h          5:30 Min/km
+26.      3026                   Damian Colmenares Ballesteros                                     San Gil                             0:57:18          +18:28           10.9 km/h          5:27 Min/km
+25.      3006                   Marcos Aurelio Blanco Velandia                                     San Gil                             0:57:05          +18:15           11.0 km/h          5:26 Min/km
+24.      3037                   Fredy Hernando Anaya Vera                                          Bucaramanga                        0:57:01          +18:11           11.0 km/h          5:25 Min/km
+23.      3020                   Andres Felipe Martinez Amaya                                        Bogota                               0:55:08          +16:18           11.4 km/h          5:15 Min/km
+22.      1241                   Johan Fabian Uribe Vanegas                                          Bucaramanga                        0:55:00          +16:10           11.4 km/h          5:14 Min/km
+21.      3014                   Haiber Ferney Rojas Rodriguez                                     Socorro                             0:54:27          +15:37           11.5 km/h          5:11 Min/km
+20.      3039                   Javier Ricardo Gualdron Ramirez                                   Socorro                             0:53:59          +15:09           11.6 km/h          5:08 Min/km
+19.      3090                   Julio Enrique Rodriguez Camacho                                   Santander                          0:53:10          +14:20           11.8 km/h          5:03 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (7) Break----------------
+9
+23.       104                  Maria Paula Gomez Ortiz                                            SAN GIL                             0:44:21          +14:57            6.7 km/h           8:52 Min/km
+22.        32                   Evelyn Dayana Gallo Gonzalez                                        San Gil                             0:44:01          +14:37            6.8 km/h           8:48 Min/km
+21.        56                   Valery Thaliana Valdes Lopez                                        SAN GIL                             0:43:53          +14:29            6.8 km/h           8:46 Min/km
+20.        73                   Katalina Torres                                                      SAN GIL                             0:43:02          +13:38            6.9 km/h           8:36 Min/km
+19.        79                   Sarah Isabella Silva Arciniegas                                   SAN GIL                             0:42:29          +13:05            7.0 km/h           8:29 Min/km
+18.        85                   Maria Paz Martinez Goyenche                                        San Gil                             0:42:29          +13:05            7.0 km/h           8:29 Min/km
+17.       103                  Ana Lucia Leon Vargas                                               San Gil                             0:42:05          +12:41            7.1 km/h           8:25 Min/km
+16.        59                   Sara Romero Suarez                                                    Socorro                             0:42:02          +12:38            7.1 km/h           8:24 Min/km
+15.        23                   Samantha Stephannia Otero Reyes                                   Charala                             0:41:49          +12:25            7.1 km/h           8:21 Min/km
+14.        19                   Azul Maia Benavides Vera                                            SAN GIL                             0:41:49          +12:25            7.1 km/h           8:21 Min/km
+13.        24                   Ariadna Sofia Mogotocoro Fonseca                                   Charala                             0:41:49          +12:25            7.1 km/h           8:21 Min/km
+12.        63                   Luciana Rueda Leon                                                    SAN  GIL                             0:41:01          +11:37            7.3 km/h           8:12 Min/km
+11.         7                  Karla Isabella Mendez Corzo                                        SAN GIL                             0:40:34          +11:10            7.3 km/h           8:06 Min/km
+10.        41                   Mariana Cubillos Arias                                               SAN GIL                             0:39:42          +10:18            7.5 km/h           7:56 Min/km
+9.         28                   Francesca Cremaschi Garcia                                          CURITi                               0:39:03          +9:39            7.6 km/h           7:48 Min/km
+8.         42                   Luciana Rueda Badillo                                               SAN GIL                             0:38:14          +8:50            7.8 km/h           7:38 Min/km
+7.         31                   Mariana Gallo Martinez                                               Charala                             0:36:58          +7:34            8.1 km/h           7:23 Min/km
+6.          9                  Raphaëlle Guevara Martin                                            SAN GIL                             0:35:42          +6:18            8.3 km/h           7:08 Min/km
+5.         97                   Antonella Barajas Santos                                            SAN GIL                             0:35:27          +6:03            8.4 km/h           7:05 Min/km
+4.         60                   Nicoll Fernanda Muñoz Duarte                                        SAN  GIL                             0:34:09          +4:45            8.7 km/h           6:49 Min/km
+3.          8                  Paloma Guevara Martin                                               SAN GIL                             0:33:49          +4:25            8.8 km/h           6:45 Min/km
+2.         21                   Ashlly Salome Cadena Aparicio                                     Bucaramanga                        0:31:36          +2:12            9.4 km/h           6:19 Min/km
+1.         18                   Samantha Corzo Moreno                                               SAN GIL                             0:29:24          --                10.2 km/h          5:52 Min/km
+Damas
+5 K MINI
+DSQ       4030                   Nelson Delgado Beltran                                               San Gil                                  --            --                       --            --
+25.      4026                   Luis Martin Prada Lopez                                            Barichara                          1:13:23          +33:19            8.5 km/h           6:59 Min/km
+24.      3079                   Carlos Alberto Vasquez Delgado                                     Bucaramanga                        1:07:13          +27:09            9.3 km/h           6:24 Min/km
+23.      4035                   Luis Fernando Rueda Vivas                                          Bucaramanga                        1:03:12          +23:08            9.9 km/h           6:01 Min/km
+22.      4021                   Pablo Porras Caceres                                                 San Gil                             1:02:19          +22:15           10.1 km/h          5:56 Min/km
+21.      4024                   Oscar  Ruiz                                                           San Gil                             1:01:25          +21:21           10.2 km/h          5:50 Min/km
+20.      4034                   Luengas Granados Claudio                                            Barbosa                             1:00:55          +20:51           10.3 km/h          5:48 Min/km
+19.      4009                   Ludwing Morales Rey                                                 Bucaramanga                        1:00:24          +20:20           10.4 km/h          5:45 Min/km
+18.      4005                   Mauricio Torres Blanco                                               Bogota                               0:59:49          +19:45           10.5 km/h          5:41 Min/km
+17.      4017                   Luis Alberto Laguado V                                               Floridablanca                      0:59:04          +19:00           10.6 km/h          5:37 Min/km
+16.      4019                   Raul Baez                                                             San Gil                             0:58:52          +18:48           10.6 km/h          5:36 Min/km
+15.      4020                   Armando Garcia Millan                                               Pinchote                             0:58:27          +18:23           10.7 km/h          5:34 Min/km
+14.      4033                   Jorge Enrique Arismendi Arismendi                                                                       0:57:10          +17:06           11.0 km/h          5:26 Min/km
+13.      4028                   Alexander Meneses Jacome                                            Bucaramanga                        0:56:58          +16:54           11.0 km/h          5:25 Min/km
+12.      4018                   Rafael Arturo Martinez Mejia                                        Charalá                             0:55:37          +15:33           11.3 km/h          5:17 Min/km
+11.      4001                   Jorge Alberto Celis Dias                                            San Gil                             0:55:09          +15:05           11.4 km/h          5:15 Min/km
+10.      4000                   Yhon Jairo Gonzalez Suarez                                          San Gil                             0:54:21          +14:17           11.5 km/h          5:10 Min/km
+9.        4027                   Eduardo Garcia                                                        Socorro                             0:52:22          +12:18           12.0 km/h          4:59 Min/km
+8.        4013                   Edwin Leonardo Legro Mosquera                                     Ibagué                               0:52:19          +12:15           12.0 km/h          4:59 Min/km
+7.        3072                   Reynaldo Enrique Afanador Peñate                                   San Gil                             0:52:14          +12:10           12.0 km/h          4:58 Min/km
+6.        4038                   Wladislav Niño Abreu                                                 San Gil                             0:51:48          +11:44           12.1 km/h          4:56 Min/km
+5.        4025                   Anderson Antonio Vizcaya Marriaga                                 San Gil                             0:49:14          +9:10           12.7 km/h          4:41 Min/km
+4.        4011                   Sergio Andres Florez Alvarez                                        Bucaramanga                        0:48:46          +8:42           12.9 km/h          4:38 Min/km
+3.        4032                   Carlos Alberto Tarazona Sanabria                                   Bogotá                               0:44:02          +3:58           14.3 km/h          4:11 Min/km
+2.        4031                   Rafael Muñoz                                                           Bucaramanga                        0:43:57          +3:53           14.3 km/h          4:11 Min/km
+1.        4004                   Luis Francisco Diagama Forero                                     MONIQUIRA                          0:40:04          --                15.7 km/h          3:49 Min/km
+Hombres
+11.      4012                   Carmen Alicia Pinto Salazar                                        San Gil                             1:14:52          +29:09            8.4 km/h           7:07 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (8) Break----------------
+10
+25.       101                  Matias Santiago Lopez romero                                        San Gil                             0:41:16          +15:11            7.2 km/h           8:15 Min/km
+24.       105                  Thomas Alejandro Mateus Villar                                     SAN GIL                             0:41:15          +15:10            7.2 km/h           8:15 Min/km
+23.      1072                   Lucas Quintana Granado                                               San Gil                             0:41:05          +15:00            7.3 km/h           8:13 Min/km
+22.        77                   Samuel Alejandro Barrera Reyes                                     SAN GIL                             0:40:19          +14:14            7.4 km/h           8:03 Min/km
+21.        43                   Emmanuel sanchez Mendoza                                            SAN GIL                             0:40:18          +14:13            7.4 km/h           8:03 Min/km
+20.        29                   Andres Felipe Lozano Rincon                                        SAN GIL                             0:40:09          +14:04            7.4 km/h           8:01 Min/km
+19.        69                   Juan David Muñoz Duarte                                            SAN GIL                             0:39:21          +13:16            7.6 km/h           7:52 Min/km
+18.        22                   Carlos Daniel Galvis Barbosa                                        SAN GIL                             0:39:07          +13:02            7.6 km/h           7:49 Min/km
+17.        75                   Mateo Garcia Lopez                                                    SAN GIL                             0:37:52          +11:47            7.9 km/h           7:34 Min/km
+16.        55                   Juan Martin Pico Loaiza                                            SAN GIL                             0:37:44          +11:39            7.9 km/h           7:32 Min/km
+15.        12                   Juan Pablo Orozco Chacon                                            SAN GIL                             0:37:33          +11:28            7.9 km/h           7:30 Min/km
+14.        74                   Thomas Alejandro Ballesteros Pinzon                              SAN GIL                             0:37:30          +11:25            7.9 km/h           7:30 Min/km
+13.         3                  Nicolas Andres Vega Alvarez                                        Charala                             0:36:59          +10:54            8.1 km/h           7:23 Min/km
+12.         1                  Lewis Santiago Muñoz Fonce                                          SAN GIL                             0:36:00          +9:55            8.3 km/h           7:12 Min/km
+11.        15                   William Jose Rincon Zafra                                          SAN GIL                             0:35:52          +9:47            8.3 km/h           7:10 Min/km
+10.       100                  Julian Camilo Morales Lizarazo                                     SAN GIL                             0:34:57          +8:52            8.5 km/h           6:59 Min/km
+9.         72                   Thomas Garcia Acosta                                                 SAN GIL                             0:34:29          +8:24            8.6 km/h           6:53 Min/km
+8.         87                   Gonzalo Andres Ortiz Castro                                        SAN GIL                             0:32:15          +6:10            9.3 km/h           6:27 Min/km
+7.         107                  Luciano Afanador                                                      San Gil                             0:30:13          +4:08            9.9 km/h           6:02 Min/km
+6.         17                   Samuel David Ortega Celis                                          SAN GIL                             0:29:30          +3:25           10.1 km/h          5:54 Min/km
+5.         37                   Diego Alejandro Rodriguez Rivera                                   SAN GIL                             0:28:25          +2:20           10.5 km/h          5:41 Min/km
+4.         36                   Cristopher Valentin Motta Rodriguez                              SAN GIL                             0:28:25          +2:20           10.5 km/h          5:41 Min/km
+3.         14                   Emilio Jose Silva                                                    BARICHARA                          0:28:20          +2:15           10.5 km/h          5:40 Min/km
+2.         50                   Julian Manuel Niño Piña                                            SAN GIL                             0:27:23          +1:18           10.9 km/h          5:28 Min/km
+1.         39                   Jeronimo Castellanos Rivera                                        SAN GIL                             0:26:05          --                11.4 km/h          5:13 Min/km
+Hombres
+51.        94                   Danna Sofia Ariza Maldonado                                        SAN GIL                             1:28:23          +58:59            3.3 km/h           17:40 Min/km
+50.        82                   Maria Paula Vesga Entralgo                                          SAN GIL                             1:00:46          +31:22            4.9 km/h           12:09 Min/km
+49.         6                  Margaret Victoria Salazar Guevara                                 SAN GIL                             0:59:01          +29:37            5.0 km/h           11:48 Min/km
+48.        52                   Paula Alejandra Cerda Hernandez                                   SAN GIL                             0:56:56          +27:32            5.2 km/h           11:23 Min/km
+47.        83                   Ruby Salome Benitez                                                 SAN GIL                             0:56:53          +27:29            5.2 km/h           11:22 Min/km
+46.        62                   Luna Pabon Sarmiento                                                 SAN  GIL                             0:56:32          +27:08            5.3 km/h           11:18 Min/km
+45.        78                   Sofia Camila Mosquera Monsalve                                     SAN GIL                             0:55:29          +26:05            5.4 km/h           11:05 Min/km
+44.       109                  Mariangel Blanco Masssey                                            San Gil                             0:54:40          +25:16            5.4 km/h           10:56 Min/km
+43.        84                   Mariangel Amaya Hernandez                                          SAN GIL                             0:54:16          +24:52            5.5 km/h           10:51 Min/km
+42.        67                   Diana Carolina Camargo Alvarez                                     SAN GIL                             0:52:14          +22:50            5.7 km/h           10:26 Min/km
+41.        53                   Ana Lucia Navarro Camargo                                          SAN GIL                             0:52:13          +22:49            5.7 km/h           10:26 Min/km
+40.        68                   Ana Victoria Alvarez Sanchez                                        SAN GIL                             0:52:12          +22:48            5.7 km/h           10:26 Min/km
+39.       108                  Mariana Lucia Oliveros                                               San Gil                             0:51:36          +22:12            5.8 km/h           10:19 Min/km
+38.        65                   Sara Arboleda Doria                                                 BARICHARA                          0:51:34          +22:10            5.8 km/h           10:18 Min/km
+37.        46                   Ivanna Valentina Rincon Reyes                                     SAN GIL                             0:50:40          +21:16            5.9 km/h           10:08 Min/km
+36.        92                   Luciana Sofia Ramirez Velasquez                                   SAN GIL                             0:50:29          +21:05            5.9 km/h           10:05 Min/km
+35.        11                   Gabriela Guevara Salazar                                            SAN GIL                             0:48:48          +19:24            6.1 km/h           9:45 Min/km
+34.        58                   Luciana Ayala Hernandez                                            SAN GIL                             0:47:39          +18:15            6.2 km/h           9:31 Min/km
+33.        88                   Maria Paz Lopez Suarez                                               SAN GIL                             0:47:18          +17:54            6.3 km/h           9:27 Min/km
+32.        66                   Juan Andres Ardila Celis                                            San Gil                             0:47:10          +17:46            6.3 km/h           9:26 Min/km
+31.        70                   Ana Valentina Camacho Gonzalez                                     SAN GIL                             0:46:49          +17:25            6.4 km/h           9:21 Min/km
+30.        86                   Maria Lucia Carreño Barrera                                        SAN GIL                             0:46:46          +17:22            6.4 km/h           9:21 Min/km
+29.        98                   Emily Luciana Silva Blanco                                          SAN GIL                             0:46:34          +17:10            6.4 km/h           9:18 Min/km
+28.        30                   Isabell Mariana Castillo Ardila                                   Charala                             0:46:29          +17:05            6.4 km/h           9:17 Min/km
+27.        81                   Annie Violeta Bonilla Camacho                                     SAN GIL                             0:46:08          +16:44            6.5 km/h           9:13 Min/km
+26.        45                   Maria Jose Burgos Amado                                            SAN GIL                             0:45:52          +16:28            6.5 km/h           9:10 Min/km
+25.        54                   Sofia Solano Gomez                                                    Sasn Gil                             0:45:30          +16:06            6.5 km/h           9:06 Min/km
+24.        38                   Isabella Santos Caceres                                            SAN GIL                             0:44:56          +15:32            6.6 km/h           8:59 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (9) Break----------------
+11
+26.       234                  Mariana  Alvarez Sanchez                                            SAN GIL                             0:52:07          +22:40            5.7 km/h           10:25 Min/km
+25.       230                  Abby Louisiana Ballesteros Velasco                                 SAN GIL                             0:49:20          +19:53            6.0 km/h           9:52 Min/km
+24.       217                  Maria Valentina Duran Hernandez                                   SOCORRO                             0:48:43          +19:16            6.1 km/h           9:44 Min/km
+23.       232                  Laura Sophia Santos Garnica                                        SAN GIL                             0:48:35          +19:08            6.1 km/h           9:43 Min/km
+22.       203                  Melanny Giselle Rodriguez Vilalr                                   SAN GIL                             0:45:32          +16:05            6.5 km/h           9:06 Min/km
+21.       266                  Eyleen Tahiana Castellanos Pinto                                   SAN GIL                             0:45:22          +15:55            6.6 km/h           9:04 Min/km
+20.       264                  Stefanny Mejia Fernandez                                            SAN GIL                             0:44:58          +15:31            6.6 km/h           8:59 Min/km
+19.       260                  Ana Lucia Silva Marin                                               SAN GIL                             0:43:41          +14:14            6.8 km/h           8:44 Min/km
+18.       225                  Ella Mariana Gomez Celis                                            SAN GIL                             0:43:39          +14:12            6.8 km/h           8:43 Min/km
+17.       236                  Bryanna Sarai Vargas Ferreira                                     SAN GIL                             0:43:30          +14:03            6.8 km/h           8:42 Min/km
+16.       220                  Luciana Sofia Ovalle Bernal                                        SAN GIL                             0:43:17          +13:50            6.9 km/h           8:39 Min/km
+15.       202                  Dulce Maria Rincon Correa                                          SAN GIL                             0:43:11          +13:44            6.9 km/h           8:38 Min/km
+14.       229                  Camila Paola Gonzalez Sanchez                                     SAN GIL                             0:39:50          +10:23            7.5 km/h           7:58 Min/km
+13.       242                  Mariana Estupiñan Mendez                                            SAN GIL                             0:38:59          +9:32            7.6 km/h           7:47 Min/km
+12.       250                  Sarahy Sofia Ruiz Rodriguez                                        SAN GIL                             0:38:49          +9:22            7.7 km/h           7:45 Min/km
+11.       206                  Anny Alejandra Lopez Gomez                                          SAN GIL                             0:38:41          +9:14            7.7 km/h           7:44 Min/km
+10.       231                  Maria Isabel Tavera Herrera                                        SAN GIL                             0:37:29          +8:02            8.0 km/h           7:29 Min/km
+9.         243                  Paula Andrea Ardila Ardila                                          SAN GIL                             0:37:29          +8:02            8.0 km/h           7:29 Min/km
+8.         211                  Alisson Mariana Sierra                                               GÜEPSA                               0:34:21          +4:54            8.7 km/h           6:52 Min/km
+7.         222                  Luciana Velasquez Castellanos                                     SAN GIL                             0:33:46          +4:19            8.8 km/h           6:45 Min/km
+6.         268                  Darly Isabella Quintero Sierra                                     SAN GIL                             0:33:10          +3:43            9.0 km/h           6:38 Min/km
+5.         215                  Maria Lucia Porras Contreras                                        SAN GIL                             0:32:36          +3:09            9.1 km/h           6:31 Min/km
+4.         207                  Danna Valentina Gonzalez Ortega                                   SAN GIL                             0:32:07          +2:40            9.3 km/h           6:25 Min/km
+3.         20                   Juanita Moreno Quintero                                            SAN GIL                             0:29:51          +24              10.0 km/h          5:58 Min/km
+2.         216                  Sara Melizza Gomez Castro                                          SAN GIL                             0:29:27          +00              10.1 km/h          5:53 Min/km
+1.         248                  Lina Cristina Martinez Corrales                                   San Gil                             0:29:27          --                10.1 km/h          5:53 Min/km
+Damas
+5 K INFANTIL
+50.        90                   Oliver Rios Mejia                                                    SAN GIL                             1:53:52          +1:27:47          2.6 km/h           22:46 Min/km
+49.        99                   Luis Esteban Lopez Martinez                                        SAN GIL                             1:14:43          +48:38            4.0 km/h           14:56 Min/km
+48.        34                   Juan Santiago Beltran Garcia                                        SAN GIL                             1:05:27          +39:22            4.5 km/h           13:05 Min/km
+47.        93                   Jose David Carrascal Quintero                                     SAN GIL                             1:00:30          +34:25            4.9 km/h           12:06 Min/km
+46.        25                   Diego Alejandro Rodriguez Rios                                     SAN GIL                             0:56:47          +30:42            5.2 km/h           11:21 Min/km
+45.        61                   Joaquin Pabon Sarmiento                                            SAN  GIL                             0:56:31          +30:26            5.3 km/h           11:18 Min/km
+44.        96                   Miguel Jeronimo Garcia Rodriguez                                   San Gil                             0:53:48          +27:43            5.5 km/h           10:45 Min/km
+43.        49                   Samuel Felipe Afanador Sanchez                                     SAN GIL                             0:53:11          +27:06            5.6 km/h           10:38 Min/km
+42.        27                   Emiliano Garcia Ferreira                                            SAN GIL                             0:51:45          +25:40            5.7 km/h           10:21 Min/km
+41.        35                   Manuel Humberto Beltran Garcia                                     SAN GIL                             0:50:37          +24:32            5.9 km/h           10:07 Min/km
+40.       106                  Matias Martinez Castillo                                            San Gil                             0:48:29          +22:24            6.1 km/h           9:41 Min/km
+39.        51                   Andres Felipe Melgarejo Peñuela                                   SAN GIL                             0:47:37          +21:32            6.2 km/h           9:31 Min/km
+38.        71                   Alberto Jose Blanco Salazar                                        SAN GIL                             0:47:21          +21:16            6.3 km/h           9:28 Min/km
+37.        57                   Braulio Yamid Blanco Piñarte                                        SAN GIL                             0:47:00          +20:55            6.3 km/h           9:24 Min/km
+36.         5                  Fredy Daniel Rueda Guevara                                          SAN GIL                             0:46:26          +20:21            6.4 km/h           9:17 Min/km
+35.        40                   Nicolas Sleider Velasquez Torres                                   SAN GIL                             0:43:34          +17:29            6.8 km/h           8:42 Min/km
+34.        26                   Alejandro Cadena Cobos                                               SAN GIL                             0:43:27          +17:22            6.9 km/h           8:41 Min/km
+33.        33                   Ramon Esteban Gallo Gonzalez                                        SAN GIL                             0:43:23          +17:18            6.9 km/h           8:40 Min/km
+32.        44                   Rafael Ruiz Archila                                                 SAN GIL                             0:42:31          +16:26            7.0 km/h           8:30 Min/km
+31.        64                   David Esteban Jaimes Quito                                          SAN  GIL                             0:42:19          +16:14            7.0 km/h           8:27 Min/km
+30.        16                   Alejandro Triana Pinzon                                            SAN GIL                             0:42:15          +16:10            7.0 km/h           8:27 Min/km
+29.         4                  Marlon Fernando Rueda Guevara                                     SAN GIL                             0:41:44          +15:39            7.1 km/h           8:20 Min/km
+28.        80                   Arick Mathias Torres Castellanos                                   SAN GIL                             0:41:43          +15:38            7.1 km/h           8:20 Min/km
+27.         2                  Emilio Santiago Arciniegas Arenas                                 SAN GIL                             0:41:23          +15:18            7.2 km/h           8:16 Min/km
+26.        10                   Emilio Guevara Martin                                               SAN GIL                             0:41:22          +15:17            7.2 km/h           8:16 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (10) Break----------------
+12
+6.         316                  Dana Valentina Marin                                                 GÜEPSA                               0:34:21          +10:29            8.7 km/h           6:52 Min/km
+5.         310                  Danna Isabella Gonzalez Ortega                                     SAN GIL                             0:33:30          +9:38            8.9 km/h           6:42 Min/km
+4.         352                  Isabella Meneses Gomez                                               SAN GIL                             0:32:27          +8:35            9.2 km/h           6:29 Min/km
+3.         338                  Maria Alejandra Moreno Sotelo                                     SAN GIL                             0:29:40          +5:48           10.1 km/h          5:56 Min/km
+2.         328                  Hannah Lucia Corredor                                               SAN GIL                             0:29:14          +5:22           10.2 km/h          5:50 Min/km
+1.         346                  Lineth Daniela Camacho Mejia                                        SAN GIL                             0:23:52          --                12.5 km/h          4:46 Min/km
+Damas
+5 K JUVENIL
+44.       249                  Samuel Fernando Mendoza Arenas                                     SAN GIL                             0:55:38          +31:50            5.3 km/h           11:07 Min/km
+43.       247                  Andres Felipe Gerena Quintero                                     San Gil                             0:54:13          +30:25            5.5 km/h           10:50 Min/km
+42.       218                  Juan Esteban Mogotocoro Fonseca                                   Charala                             0:47:07          +23:19            6.3 km/h           9:25 Min/km
+41.       255                  Thomas Santiago Lopez Gamez                                        SAN GIL                             0:46:26          +22:38            6.4 km/h           9:17 Min/km
+40.       226                  Juan Jose Quecho Ordoñez                                            SAN GIL                             0:45:11          +21:23            6.6 km/h           9:02 Min/km
+39.       262                  Emmanuel Esteban Bautista Duarte                                   SAN GIL                             0:45:02          +21:14            6.6 km/h           9:00 Min/km
+38.       205                  Thiago Joel Ramirez Monsalve                                        SAN GIL                             0:44:55          +21:07            6.6 km/h           8:59 Min/km
+37.       212                  Carlos Manuel Castro Hurtado                                        SAN GIL                             0:43:40          +19:52            6.8 km/h           8:44 Min/km
+36.       246                  Yossepf Nickholas Vera Sanchez                                     SAN GIL                             0:43:38          +19:50            6.8 km/h           8:43 Min/km
+35.       244                  Samuel Andres Villar Mejia                                          SAN GIL                             0:43:31          +19:43            6.8 km/h           8:42 Min/km
+34.       238                  Sebastian Ardila Perez                                               BARICHARA                          0:43:02          +19:14            6.9 km/h           8:36 Min/km
+33.       253                  Mateo Alejandro Silva Blanco                                        SAN GIL                             0:43:01          +19:13            6.9 km/h           8:36 Min/km
+32.       269                  Gustavo Alejandro Acevedo                                          SAN GIL                             0:43:01          +19:13            6.9 km/h           8:36 Min/km
+31.       245                  Juan Esteban Rodriguez Reyes                                        SAN GIL                             0:41:33          +17:45            7.2 km/h           8:18 Min/km
+30.       261                  Luis Alejandro Piña Marin                                          SAN GIL                             0:41:19          +17:31            7.2 km/h           8:15 Min/km
+29.       233                  Daniel Esteban Peña Tellez                                          SAN GIL                             0:41:03          +17:15            7.3 km/h           8:12 Min/km
+28.       219                  Juan Jose Viviescas Florez                                          SAN GIL                             0:41:03          +17:15            7.3 km/h           8:12 Min/km
+27.       239                  Jose Alejandro Rueda Leon                                          SAN GIL                             0:41:01          +17:13            7.3 km/h           8:12 Min/km
+26.       223                  Isaac Ferrer                                                           SAN GIL                             0:40:40          +16:52            7.3 km/h           8:08 Min/km
+25.      5048                   Sebastian Nuñez Florez                                               SAN GIL                             0:39:20          +15:32            7.6 km/h           7:52 Min/km
+24.       224                  Jacobo Ardila Perez                                                 BARICHARA                          0:38:31          +14:43            7.7 km/h           7:42 Min/km
+23.       263                  Edward Fernando Castro Silva                                        SAN GIL                             0:37:46          +13:58            7.9 km/h           7:33 Min/km
+22.       270                  Thomas Felipe Oliveros Herrera                                     SAN GIL                             0:37:31          +13:43            7.9 km/h           7:30 Min/km
+21.       258                  Alvaro Emanuel Rodriguez Camargo                                   SAN GIL                             0:37:28          +13:40            8.0 km/h           7:29 Min/km
+20.       272                  Juan Esteban Barrera Solano                                        San Gil                             0:37:18          +13:30            8.0 km/h           7:27 Min/km
+19.       228                  Juan Sebastian Caceres Mejia                                        SAN GIL                             0:37:18          +13:30            8.0 km/h           7:27 Min/km
+18.       273                  Jeronimo Arias                                                        San Gil                             0:36:32          +12:44            8.2 km/h           7:18 Min/km
+17.       274                  Juan manuel quiroga salas                                          San Gil                             0:35:55          +12:07            8.3 km/h           7:11 Min/km
+16.       271                  Luciano Monroy Viviescas                                            SAN GIL                             0:34:44          +10:56            8.6 km/h           6:56 Min/km
+15.       214                  Julian David Hernandez Patiño                                     Paramo                               0:33:40          +9:52            8.9 km/h           6:44 Min/km
+14.       200                  Yesith Alejandro Herrera Carrillo                                 Charala                             0:33:37          +9:49            8.9 km/h           6:43 Min/km
+13.       210                  Jose Luis Simijaca                                                    GÜEPSA                               0:33:22          +9:34            8.9 km/h           6:40 Min/km
+12.       265                  Thiago Alejandro Benitez Nova                                     SAN GIL                             0:33:19          +9:31            9.0 km/h           6:39 Min/km
+11.       201                  Mathis Guevara Martin                                               SAN GIL                             0:33:19          +9:31            9.0 km/h           6:39 Min/km
+10.       213                  Juan Jose Rueda Gomez                                               SAN GIL                             0:33:15          +9:27            9.0 km/h           6:39 Min/km
+9.         275                  Emiliano Afanador                                                    San Gil                             0:31:00          +7:12            9.6 km/h           6:12 Min/km
+8.         259                  Ian Mathias Carreño Rincon                                          SAN GIL                             0:30:56          +7:08            9.6 km/h           6:11 Min/km
+7.         252                  Juan Angel Paredes Gualdron                                        SAN GIL                             0:30:33          +6:45            9.8 km/h           6:06 Min/km
+6.         277                  Tomás Santiago Rodriguez Mateus                                   San Gil                             0:30:25          +6:37            9.8 km/h           6:05 Min/km
+5.         204                  Nicolas Saavedra Benavides                                          SAN GIL                             0:29:48          +6:00           10.0 km/h          5:57 Min/km
+4.         257                  Jose Rivera Bernal                                                    SAN GIL                             0:26:10          +2:22           11.4 km/h          5:14 Min/km
+3.         235                  Jose Leonel Ardila Ramirez                                          SAN GIL                             0:25:50          +2:02           11.6 km/h          5:10 Min/km
+2.         276                  Juan Sebastian Villar Villar                                        San Gil                             0:25:42          +1:54           11.6 km/h          5:08 Min/km
+1.         221                  Rafael Elias Ariza Orozco                                          GÜEPSA                               0:23:48          --                12.5 km/h          4:45 Min/km
+Hombres
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (11) Break----------------
+13
+2.        1064                   Bridny Mayary Duran Ballesteros                                   SAN GIL                             0:28:48          +4:47           10.4 km/h          5:45 Min/km
+1.        1094                   Erika Johana Rodriguez Ortiz                                        Barichara                          0:24:01          --                12.4 km/h          4:48 Min/km
+Damas
+5 K ABIERTA
+37.       358                  Jose Esteban Angel Porras                                          San Gil                             0:50:32          +28:40            5.9 km/h           10:06 Min/km
+36.       336                  Jairo Fernando Benitez Rueda                                        SAN  GIL                             0:45:15          +23:23            6.6 km/h           9:03 Min/km
+35.       344                  Daniel Santiago Acuña Sarmiento                                   SAN GIL                             0:45:14          +23:22            6.6 km/h           9:02 Min/km
+34.       340                  Thomas Eduardo Castro Silva                                        SAN GIL                             0:40:43          +18:51            7.3 km/h           8:08 Min/km
+33.       342                  Andres Felipe Vesga Entralgo                                        SAN GIL                             0:38:25          +16:33            7.8 km/h           7:41 Min/km
+32.       332                  David Arboleda Doria                                                 BARICHARA                          0:37:01          +15:09            8.1 km/h           7:24 Min/km
+31.       304                  Andrew Felipe Jimenez Cavieles                                     SAN GIL                             0:36:04          +14:12            8.3 km/h           7:12 Min/km
+30.       324                  Thomas David Rueda Arciniegas                                     SAN GIL                             0:35:22          +13:30            8.4 km/h           7:04 Min/km
+29.       329                  Jose Alejandro Ceballos                                            BARICHARA                          0:34:46          +12:54            8.6 km/h           6:57 Min/km
+28.       361                  Tomas Acevedo                                                        San Gil                             0:34:19          +12:27            8.7 km/h           6:51 Min/km
+27.       356                  Sebastian Ramirez Rojas                                            San Gil                             0:33:38          +11:46            8.9 km/h           6:43 Min/km
+26.       360                  Esteban Toloza Ricaurte                                                                                   0:32:48          +10:56            9.1 km/h           6:33 Min/km
+25.       300                  Jose Manuel Muñoz Fonce                                            SAN GIL                             0:32:40          +10:48            9.1 km/h           6:32 Min/km
+24.       335                  Santiago Prieto Rodriguez                                          SAN  GIL                             0:32:00          +10:08            9.3 km/h           6:24 Min/km
+23.       331                  Juan Esteban Santamaria Rodriguez Clavijo                       SAN GIL                             0:31:35          +9:43            9.4 km/h           6:19 Min/km
+22.       302                  Andres Felipe Hernandez Molina                                     SAN GIL                             0:31:35          +9:43            9.4 km/h           6:19 Min/km
+21.       323                  Bryan Alberto Gomez Melgarejo                                     SAN GIL                             0:31:07          +9:15            9.6 km/h           6:13 Min/km
+20.       327                  Juan Jose Rodriez Neira                                            SAN GIL                             0:31:03          +9:11            9.6 km/h           6:12 Min/km
+19.       301                  Tomas Sepulveda Ramon                                               SAN GIL                             0:30:43          +8:51            9.7 km/h           6:08 Min/km
+18.       341                  Kevin Andres Florez Rueda                                          SAN GIL                             0:29:02          +7:10           10.3 km/h          5:48 Min/km
+17.       311                  Gabriel Santiago Uribe Morales                                     San Gil                             0:29:01          +7:09           10.3 km/h          5:48 Min/km
+16.       317                  Camilo Alejandro Moyano                                            GÜEPSA                               0:28:50          +6:58           10.4 km/h          5:46 Min/km
+15.       325                  Tomas Alejandro Hernandez Galeano                                 GÜEPSA                               0:28:50          +6:58           10.4 km/h          5:46 Min/km
+14.       355                  Jose Alejandro Niño Salazar                                        San Gil                             0:28:20          +6:28           10.5 km/h          5:40 Min/km
+13.       362                  Samuel Almeida Gualdron                                            San Gil                             0:27:58          +6:06           10.7 km/h          5:35 Min/km
+12.       337                  Jorge Enrique Bautista Carreño                                     SAN  GIL                             0:27:19          +5:27           10.9 km/h          5:27 Min/km
+11.       308                  Jorge Andres Rodriguez Morales                                     CURITi                               0:27:09          +5:17           11.0 km/h          5:25 Min/km
+10.       305                  Cesar David Contreras Porras                                        SOCORRO                             0:26:20          +4:28           11.3 km/h          5:16 Min/km
+9.         318                  Miyer Jair Ortega Zarate                                            GÜEPSA                               0:26:04          +4:12           11.5 km/h          5:12 Min/km
+8.         333                  Emmanuel Pico Carvajal                                               San Gil                             0:24:59          +3:07           12.0 km/h          4:59 Min/km
+7.         339                  Juan Carlos Porras Araque                                          SAN GIL                             0:24:56          +3:04           12.0 km/h          4:59 Min/km
+6.         309                  Julio Mejia                                                           ARATOCA                             0:24:18          +2:26           12.3 km/h          4:51 Min/km
+5.         312                  Feisal David Diaz Mendez                                            ARATOCA                             0:23:50          +1:58           12.5 km/h          4:46 Min/km
+4.         320                  Johan Stiven Hernandez                                               GÜEPSA                               0:23:17          +1:25           12.8 km/h          4:39 Min/km
+3.         330                  Anderson Jhoseth Suarez Tavera                                     SAN GIL                             0:22:14          +22              13.4 km/h          4:26 Min/km
+2.         303                  Daniel Felipe Argüello Figueroa                                   BUCARAMANGA                        0:22:13          +21              13.4 km/h          4:26 Min/km
+1.         319                  Jeison Stick Ferney Fiaga Diaz                                     SAN GIL                             0:21:52          --                13.7 km/h          4:22 Min/km
+Hombres
+17.       351                  Danna Valentina Carreño Rincon                                     SAN GIL                             1:09:02          +45:10            4.3 km/h           13:48 Min/km
+16.       364                  Laura Carreño                                                        San Gil                             1:09:01          +45:09            4.3 km/h           13:48 Min/km
+15.       348                  Isabella Orozco Villarreal                                          SAN GIL                             0:56:57          +33:05            5.2 km/h           11:23 Min/km
+14.       359                  Maria Jose Ribero Lancheros                                        San Gil                             0:50:33          +26:41            5.9 km/h           10:06 Min/km
+13.       322                  Maria Valentina Figueredo Hernandez                              SAN GIL                             0:49:35          +25:43            6.0 km/h           9:55 Min/km
+12.       313                  Maria Isabella Massey Rojas                                        SAN GIL                             0:46:22          +22:30            6.4 km/h           9:16 Min/km
+11.       343                  Maria Fernanda Carreño Barrera                                     SAN GIL                             0:45:14          +21:22            6.6 km/h           9:02 Min/km
+10.       357                  Ana Maria Ribero Millan                                            San Gil                             0:39:19          +15:27            7.6 km/h           7:51 Min/km
+9.         307                  Karen Vanesa Hernandez Badillo                                     SAN GIL                             0:37:53          +14:01            7.9 km/h           7:34 Min/km
+8.         321                  Dana Sepulveda                                                        ARATOCA                             0:35:30          +11:38            8.4 km/h           7:06 Min/km
+7.         314                  Stefani Chantal Grimaldos Sandoval                                 PIEDECUESTA                        0:35:27          +11:35            8.4 km/h           7:05 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (12) Break----------------
+14
+56.      1109                   Cristina Rodriguez                                                    San Gil                             0:40:46          +16:45            7.3 km/h           8:09 Min/km
+55.      1102                   Karen Patiño Vanegas                                                 Santander                          0:40:42          +16:41            7.3 km/h           8:08 Min/km
+54.      1088                   Maite Acevedo                                                        San Gil                             0:40:40          +16:39            7.3 km/h           8:08 Min/km
+53.      1020                   Natalia Cardenas                                                      San Gil                             0:40:13          +16:12            7.4 km/h           8:02 Min/km
+52.      1128                   Karen Dulcey Estupiñan                                               San Gil                             0:40:06          +16:05            7.4 km/h           8:01 Min/km
+51.      1188                   Adriana Garcia Porras                                               SAN GIL                             0:40:05          +16:04            7.4 km/h           8:01 Min/km
+50.      1226                   Auki Rahin Cabascango Caiza                                        Bucaramanga                        0:40:02          +16:01            7.4 km/h           8:00 Min/km
+49.      1049                   Mary Sol Mora Lopez                                                 SOCORRO                             0:39:46          +15:45            7.5 km/h           7:57 Min/km
+48.      1051                   Alba Muñoz Galvis                                                    Socorro                             0:39:38          +15:37            7.5 km/h           7:55 Min/km
+47.      1141                   Eliana Rocio Castro Cano                                            Bucaramanga                        0:39:37          +15:36            7.5 km/h           7:55 Min/km
+46.      1060                   Jacqueline Ballesteros Plata                                        Socorro                             0:39:37          +15:36            7.5 km/h           7:55 Min/km
+45.      1147                   Maria Isabel Rodriguez Bautista                                   Bucaramanga                        0:39:15          +15:14            7.6 km/h           7:51 Min/km
+44.      1057                   Silvia Juliana Barbosa Sanchez                                     FLORIDABLANCA                      0:39:06          +15:05            7.6 km/h           7:49 Min/km
+43.      1080                   Natalia Gamboa                                                        SAN GIL                             0:38:52          +14:51            7.7 km/h           7:46 Min/km
+42.      1185                   Camila Caceres                                                        SAN GIL                             0:38:50          +14:49            7.7 km/h           7:46 Min/km
+41.      1211                   Cindy Tatiana Villar Suarez                                        San Gil                             0:38:49          +14:48            7.7 km/h           7:45 Min/km
+40.      1067                   Rubiela Yineth Olaya Traslaviña                                   Florida Blanca                      0:38:47          +14:46            7.7 km/h           7:45 Min/km
+39.      1193                   Diana Milena Baez Sanchez                                          San Gil                             0:38:47          +14:46            7.7 km/h           7:45 Min/km
+38.      1066                   Emelyn Paola Rojas Serrano                                          Florida Blanca                      0:38:47          +14:46            7.7 km/h           7:45 Min/km
+37.      1077                   Andrea Martinez Baez                                                 SAN GIL                             0:38:47          +14:46            7.7 km/h           7:45 Min/km
+36.      1131                   Maria Alejandra Quintero Becerra                                   San Gil                             0:38:38          +14:37            7.7 km/h           7:43 Min/km
+35.      1023                   Vanessa Ramos Reyes                                                 Ramiriqui                          0:38:22          +14:21            7.8 km/h           7:40 Min/km
+34.      1038                   Andrea Reyes Rodriguez                                               Tunja                               0:38:21          +14:20            7.8 km/h           7:40 Min/km
+33.      1156                   Blanca Azucena Sepulveda Rodriguez                                 San Gil                             0:38:09          +14:08            7.8 km/h           7:37 Min/km
+32.      1145                   Claudia Juliana Cardozo                                            San Gil                             0:38:05          +14:04            7.8 km/h           7:37 Min/km
+31.      1191                   Rosalba Lozano Mejia                                                 San Gil                             0:37:58          +13:57            7.8 km/h           7:35 Min/km
+30.      1015                   Haydee Diaz                                                           SAN GIL                             0:37:58          +13:57            7.9 km/h           7:35 Min/km
+29.      1121                   Marilyn Andrea Guiza Casas                                          Curití                               0:37:55          +13:54            7.9 km/h           7:35 Min/km
+28.      1026                   Lizeth Vanesa Rodidriguez Plata                                   VILLANUEVA                          0:37:40          +13:39            7.9 km/h           7:32 Min/km
+27.      1062                   Silvia Nathalia Ayala Rangel                                        San Gil                             0:37:37          +13:36            7.9 km/h           7:31 Min/km
+26.      1169                   Claudia Nathaly Mejia Arciniegas                                   Barichara                          0:37:33          +13:32            7.9 km/h           7:30 Min/km
+25.      1112                   Natalia Pinzon Pinto                                                 Santander                          0:37:30          +13:29            7.9 km/h           7:30 Min/km
+24.      1106                   Julitza Juliana Prada Melgarejo                                   San Gil                             0:37:21          +13:20            8.0 km/h           7:28 Min/km
+23.      1043                   Xiomara Viviescas                                                    Villa Nueva                        0:37:12          +13:11            8.0 km/h           7:26 Min/km
+22.      1119                   Angie Carolay Sanabria Ortiz                                        San Gil                             0:36:40          +12:39            8.1 km/h           7:20 Min/km
+21.      1018                   Ana Maria Rojas                                                      SAN GIL                             0:36:27          +12:26            8.2 km/h           7:17 Min/km
+20.      1099                   Erika Patricia Aparicio Meneses                                   San Gil                             0:36:21          +12:20            8.2 km/h           7:16 Min/km
+19.      1157                   Luz Angelica Garcia Ortiz                                          San Gil                             0:36:10          +12:09            8.2 km/h           7:14 Min/km
+18.      1081                   Marlene Cruz Lancheros                                               Socorro                             0:36:06          +12:05            8.3 km/h           7:13 Min/km
+17.      1061                   Paula Alejandra Ayala Rangel                                        SAN GIL                             0:35:39          +11:38            8.4 km/h           7:07 Min/km
+16.      1227                   Carev Lorena Romero Romero                                          Bucaramanga                        0:35:37          +11:36            8.4 km/h           7:07 Min/km
+15.      1078                   Yenny Carolina Granados Hernandez                                 SAN GIL                             0:35:35          +11:34            8.4 km/h           7:07 Min/km
+14.      1073                   Diana Patricia Barroso Jaimes                                     Bogota                               0:35:31          +11:30            8.4 km/h           7:06 Min/km
+13.      1006                   Laura Fernanda Lizarazo Diaz                                        San Gil                             0:35:28          +11:27            8.4 km/h           7:05 Min/km
+12.      1048                   Yuly Jimena Vazquez Maldonado                                     San Gil                             0:35:13          +11:12            8.5 km/h           7:02 Min/km
+11.      1036                   Katherine Gomez                                                      SAN GIL                             0:34:58          +10:57            8.5 km/h           6:59 Min/km
+10.      1087                   Nicolle Marcela Hernandez Peña                                     Bucaramanga                        0:34:29          +10:28            8.6 km/h           6:53 Min/km
+9.        1045                   Karen  Rossana Cespedes Monsalve                                   San Gil                             0:34:17          +10:16            8.7 km/h           6:51 Min/km
+8.        1037                   Merlyn Zuleima Gomez Ballesteros                                   Villanueva                          0:34:17          +10:16            8.7 km/h           6:51 Min/km
+7.        1014                   Maira Alejandra Sanabria Vargas                                   Barbosa                             0:33:53          +9:52            8.8 km/h           6:46 Min/km
+6.        1197                   Maria Angelica Guerrero Delgado                                   Galan                               0:33:06          +9:05            9.0 km/h           6:37 Min/km
+5.        1168                   Yesenia Carvajal Mancilla                                          San Gil                             0:32:30          +8:29            9.2 km/h           6:30 Min/km
+4.         353                  Camila Alejandra Meneses Gomez                                     SAN GIL                             0:32:27          +8:26            9.2 km/h           6:29 Min/km
+3.        1054                   Carolina Aparicio Bayona                                            San Gil                             0:29:39          +5:38           10.1 km/h          5:55 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (13) Break----------------
+15
+110.       1192                   Delis Paola Gonzalez Corzo                                          San Gil                             0:50:46          +26:45            5.9 km/h           10:09 Min/km
+109.       1040                   Maria Alix Quintero Rojas                                          San Gil                             0:50:31          +26:30            5.9 km/h           10:06 Min/km
+108.       1134                   Karen Daniela Tavera Romero                                        San Gil                             0:50:08          +26:07            5.9 km/h           10:01 Min/km
+107.       1114                   Carol Viviana Barrera Valencia                                     Bucaramanga                        0:49:31          +25:30            6.0 km/h           9:54 Min/km
+106.       1000                   Susana Del Pilar Gonzalez Ayala                                   San Gil                             0:49:21          +25:20            6.0 km/h           9:52 Min/km
+105.       1063                   Karen Bibiana Chaparro Sanchez                                                                           0:48:43          +24:42            6.1 km/h           9:44 Min/km
+104.       1186                   Hingrid Tatiana Garnica Espinosa                                   SAN GIL                             0:48:35          +24:34            6.1 km/h           9:43 Min/km
+103.       1117                   Maria Esperanza Mayorga Arias                                     Bucaramanga                        0:48:18          +24:17            6.2 km/h           9:39 Min/km
+102.       1167                   Luisa Fernanda Rincon Torres                                        San Gil                             0:48:10          +24:09            6.2 km/h           9:38 Min/km
+101.       1184                   Liliana Maria Noriega Lora                                          MOGOTES                             0:48:03          +24:02            6.2 km/h           9:36 Min/km
+100.       1004                   Maria Eugenia Muñoz Carreño                                        San Gil                             0:47:59          +23:58            6.2 km/h           9:35 Min/km
+99.      1209                   Cindy Carolina Ayala Carreño                                        Bucaramanga                        0:47:44          +23:43            6.2 km/h           9:32 Min/km
+98.      1111                   Margarita Otilia Serrano Sanchez                                   San Gil                             0:47:24          +23:23            6.3 km/h           9:28 Min/km
+97.      1136                   Sonia Marcela Celis Cordero                                        San Gil                             0:47:11          +23:10            6.3 km/h           9:26 Min/km
+96.      1152                   Marcela Galviz Reyes                                                 San Gil                             0:46:52          +22:51            6.4 km/h           9:22 Min/km
+95.      1074                   Luisa Fernanda Barrera Medina                                     San Gil                             0:46:46          +22:45            6.4 km/h           9:21 Min/km
+94.      1176                   Francy Carolina Sotelo cruz                                        SAN GIL                             0:46:43          +22:42            6.4 km/h           9:20 Min/km
+93.      1187                   Diana Katherine Gonzalez Gualdron                                 SAN GIL                             0:46:39          +22:38            6.4 km/h           9:19 Min/km
+92.      1031                   Deccy Yohana Collantes                                               SAN GIL                             0:46:36          +22:35            6.4 km/h           9:19 Min/km
+91.      1232                   Dina Luz Diaz Tarazona                                               Bucaramanga                        0:46:34          +22:33            6.4 km/h           9:18 Min/km
+90.      1105                   Andrea Rocio Castillo Suarez                                        Santander                          0:46:31          +22:30            6.4 km/h           9:18 Min/km
+89.      1034                   Yuliet Steffany Cruz Gallo                                          Charala                             0:46:28          +22:27            6.4 km/h           9:17 Min/km
+88.      1085                   Isamar Pinto Garcia                                                 San Gil                             0:46:21          +22:20            6.4 km/h           9:16 Min/km
+87.      1050                   Sandra Milena Rincon Porras                                        SAN GIL                             0:45:53          +21:52            6.5 km/h           9:10 Min/km
+86.      1042                   Neyla Yohana Cardenas Gomez                                        San Gil                             0:45:51          +21:50            6.5 km/h           9:10 Min/km
+85.      1195                   Zulay Andrea Chacon Barrera                                        San Gil                             0:45:48          +21:47            6.5 km/h           9:09 Min/km
+84.      1238                   Silvia Milena Gomez Rincon                                          San Gil                             0:45:29          +21:28            6.5 km/h           9:05 Min/km
+83.      1108                   Rubiela Serrano Arguello                                            San Gil                             0:45:21          +21:20            6.6 km/h           9:04 Min/km
+82.      1124                   Erika Tatiana  Sandoval  Villarreal                              San Gil                             0:45:07          +21:06            6.6 km/h           9:01 Min/km
+81.      1089                   Jessica Suleidy Gonzalez Vesga                                     San Gil                             0:44:41          +20:40            6.7 km/h           8:56 Min/km
+80.      1164                   Monica Andrea Baez                                                    Villanueva                          0:44:03          +20:02            6.8 km/h           8:48 Min/km
+79.      1125                   Jenniffer Sofia Torres Suancha                                     San Gil                             0:43:59          +19:58            6.8 km/h           8:47 Min/km
+78.      1053                   Angy Tatiana Badillo Becerra                                        SAN GIL                             0:43:59          +19:58            6.8 km/h           8:47 Min/km
+77.      1084                   Daniela Alfonso Chanaga                                            San Gil                             0:43:56          +19:55            6.8 km/h           8:47 Min/km
+76.      1162                   Yuri Andrea Molina Castillo                                        San Gil                             0:43:55          +19:54            6.8 km/h           8:47 Min/km
+75.      1155                   Adriana Paredes Arciniegas                                          San Gil                             0:43:52          +19:51            6.8 km/h           8:46 Min/km
+74.      1178                   Laura Judith Celis Zarate                                          SAN GIL                             0:43:40          +19:39            6.8 km/h           8:44 Min/km
+73.      1120                   Angye Daniela Rodriguez Socha                                     San Gil                             0:43:38          +19:37            6.8 km/h           8:43 Min/km
+72.      1047                   Ligia Arciniegas                                                      San Gil                             0:43:35          +19:34            6.8 km/h           8:43 Min/km
+71.      1046                   Nadia Lizeth Pinto Moreno                                          SAN GIL                             0:43:16          +19:15            6.9 km/h           8:39 Min/km
+70.      1001                   Paula Andrea Guarin Pinto                                          SAN GIL                             0:42:41          +18:40            7.0 km/h           8:32 Min/km
+69.      1126                   Melany Lopez Gonzalez                                               San Gil                             0:42:36          +18:35            7.0 km/h           8:31 Min/km
+68.      1021                   Yaneth Porras Diaz                                                    BUCARAMANGA                        0:42:32          +18:31            7.0 km/h           8:30 Min/km
+67.      1030                   Maria Angelica Solano Gomez                                        Bucaramanga                        0:42:25          +18:24            7.0 km/h           8:29 Min/km
+66.      1170                   Silvia Viviana Rios Rodriguez                                     San Gil                             0:42:03          +18:02            7.1 km/h           8:24 Min/km
+65.      1029                   Albania Delgado Bohorquez                                          Pie de Cuesta                      0:41:56          +17:55            7.1 km/h           8:23 Min/km
+64.      1019                   Rosa Chaparro                                                        San Gil                             0:41:51          +17:50            7.1 km/h           8:22 Min/km
+63.      1100                   Ingrid Paola Vera Rodriguez                                        San Gil                             0:41:49          +17:48            7.1 km/h           8:21 Min/km
+62.      1098                   Estelita Junca Pacaya                                               Santander                          0:41:37          +17:36            7.2 km/h           8:19 Min/km
+61.      1012                   Daniela Guevara Torres                                               Bogotá                               0:41:23          +17:22            7.2 km/h           8:16 Min/km
+60.      1239                   Yujheidis Corrales Bejarano                                        San Gil                             0:41:09          +17:08            7.2 km/h           8:13 Min/km
+59.      1206                   Nelly Luengas Granados                                               Socorro                             0:41:09          +17:08            7.2 km/h           8:13 Min/km
+58.      1148                   Melanie Sofía Lizcano Arias                                        San Gil                             0:40:52          +16:51            7.3 km/h           8:10 Min/km
+57.      1010                   Luisa Fernanda Corzo Muñoz                                          SAN GIL                             0:40:47          +16:46            7.3 km/h           8:09 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (14) Break----------------
+16
+41.      1231                   Jhonnatan Eduardo Barrios Rodriguez                              Bucaramanga                        0:37:55          +19:17            7.9 km/h           7:35 Min/km
+40.      1229                   Wilmer Alexis Cabascango Caiza                                     Bucaramanga                        0:37:13          +18:35            8.0 km/h           7:26 Min/km
+39.      1159                   Fabio Andres Torres Ramos                                          San Gil                             0:36:53          +18:15            8.1 km/h           7:22 Min/km
+38.      1158                   Juan David Mejia Sepulveda                                          San Gil                             0:36:39          +18:01            8.1 km/h           7:19 Min/km
+37.      1013                   Daniel Mojica Pinto                                                 Bogotá                               0:35:43          +17:05            8.3 km/h           7:08 Min/km
+36.      1093                   Andres Felipe Caceres Quintanilla                                 Barichara                          0:35:19          +16:41            8.4 km/h           7:03 Min/km
+35.      1071                   Edwin Andres Solano                                                 SAN GIL                             0:35:01          +16:23            8.5 km/h           7:00 Min/km
+34.      1025                   Drejean Stiveen Garcia Bautista                                   SAN GIL                             0:34:56          +16:18            8.5 km/h           6:59 Min/km
+33.      1130                   Carlos Fabian Diaz Jaimes                                          San Gil                             0:34:50          +16:12            8.6 km/h           6:58 Min/km
+32.      1235                   Emilio Layton Suarez                                                 San Gil                             0:34:40          +16:02            8.6 km/h           6:56 Min/km
+31.      1173                   Freddy Ivan Castillo Garcia                                        SAN GIL                             0:34:40          +16:02            8.6 km/h           6:56 Min/km
+30.      1097                   Julian Humberto Martinez Diaz                                     San Gil                             0:34:33          +15:55            8.6 km/h           6:54 Min/km
+29.      1068                   Deyer Fabian Galeano Torres                                        Florida Blanca                      0:34:04          +15:26            8.8 km/h           6:48 Min/km
+28.      1172                   William Fernando Quiñonez Amaya                                   Barichara                          0:34:02          +15:24            8.8 km/h           6:48 Min/km
+27.      1011                   Javier Guevara Torres                                               SAN GIL                             0:33:49          +15:11            8.8 km/h           6:45 Min/km
+26.      1189                   Johan Bermudez Duran                                                 San Gil                             0:33:48          +15:10            8.8 km/h           6:45 Min/km
+25.      3045                   Juan Sebastian Rios Bernal                                          San Gil                             0:33:00          +14:22            9.0 km/h           6:36 Min/km
+24.      1174                   Gustavo Adolfo Rueda Chacon                                        SAN GIL                             0:32:43          +14:05            9.1 km/h           6:32 Min/km
+23.      1240                   Victor Manuel Tortolero Acosta                                     San Gil                             0:32:17          +13:39            9.2 km/h           6:27 Min/km
+22.      1079                   Giovanny Castillo Castillo                                          SAN GIL                             0:30:56          +12:18            9.6 km/h           6:11 Min/km
+21.      1140                   Cristhiam Yesid Araque Cusva                                        Socorro                             0:30:37          +11:59            9.7 km/h           6:07 Min/km
+20.      1058                   Jorge Andres Niño Sierra                                            Confines                             0:30:18          +11:40            9.8 km/h           6:03 Min/km
+19.      1008                   Yeferson Samaca                                                      SAN GIL                             0:29:13          +10:35           10.2 km/h          5:50 Min/km
+18.      1016                   Jose Antonio Acevedo Vargas                                        Aguada                               0:29:02          +10:24           10.3 km/h          5:48 Min/km
+17.      1234                   Samuel Santiago Suarez Camacho                                     San Gil                             0:28:58          +10:20           10.3 km/h          5:47 Min/km
+16.      1017                   Camilo Rodriguez Garnica                                            San Gil                             0:28:51          +10:13           10.3 km/h          5:46 Min/km
+15.      1150                   Juan Carlos Arias Canonigo                                          Socorro                             0:28:25          +9:47           10.5 km/h          5:41 Min/km
+14.      1123                   Luis Alejandro Cano Diaz                                            San Gil                             0:27:08          +8:30           11.0 km/h          5:25 Min/km
+13.      1041                   Hernando Villaveces                                                 San Gil                             0:27:00          +8:22           11.1 km/h          5:24 Min/km
+12.      1149                   Andres Barrera                                                        San Gil                             0:26:19          +7:41           11.3 km/h          5:15 Min/km
+11.      1005                   Juanes Lizarazo                                                      SAN GIL                             0:25:03          +6:25           11.9 km/h          5:00 Min/km
+10.      1065                   Juan Jose Barrera Quintero                                          Bucaramanga                        0:24:09          +5:31           12.4 km/h          4:49 Min/km
+9.        1032                   Juan Pablo Ramirez Zambrano                                        San Gil                             0:23:42          +5:04           12.6 km/h          4:44 Min/km
+8.        1039                   Isaac Posso Sanchez                                                 San Gil                             0:23:07          +4:29           12.9 km/h          4:37 Min/km
+7.        1190                   Sergio Andres Riveros                                               San Gil                             0:21:48          +3:10           13.7 km/h          4:21 Min/km
+6.        1075                   Santiago Sierra Pimiento                                            San Gil                             0:21:38          +3:00           13.8 km/h          4:19 Min/km
+5.        1002                   Nicolas Arias                                                        SAN GIL                             0:21:02          +2:24           14.2 km/h          4:12 Min/km
+4.        1055                   Francisco Andres Angarita Rivera                                   FLORIDABLANCA                      0:20:08          +1:30           14.8 km/h          4:01 Min/km
+3.        1056                   Alejandro Vargas                                                      Bucaramanga                        0:19:45          +1:07           15.1 km/h          3:57 Min/km
+2.        1009                   Marlon Stiward Diagama Franco                                     MONIQUIRA                          0:18:45          +07              15.9 km/h          3:45 Min/km
+1.        1027                   Yorby Alexis Lopez Ardila                                          Barichara                          0:18:38          --                16.0 km/h          3:43 Min/km
+Hombres
+122.       1092                   Yuly Mariana Garcia Rincon                                          Barichara                          1:05:27          +41:26            4.5 km/h           13:05 Min/km
+121.       1194                   Andrea Natalia Angarita Gomez                                     Socorro                             0:58:30          +34:29            5.1 km/h           11:42 Min/km
+120.       1199                   María Fernanda Diaz                                                 San Gil                             0:57:05          +33:04            5.2 km/h           11:25 Min/km
+119.       1144                   Yaneira Rios Contreras                                               San Gil                             0:57:00          +32:59            5.2 km/h           11:24 Min/km
+118.       1196                   Maria Alejandra Fuentes Patiño                                     San Gil                             0:55:58          +31:57            5.3 km/h           11:11 Min/km
+117.       1069                   Paula Camila Pinzon Sanabria                                        SAN GIL                             0:54:53          +30:52            5.4 km/h           10:58 Min/km
+116.       1033                   Yolima Romero Serrano                                               Socorro                             0:53:25          +29:24            5.6 km/h           10:41 Min/km
+115.       1153                   Cindi Paola Sanchez Centeno                                        San Gil                             0:52:16          +28:15            5.7 km/h           10:27 Min/km
+114.       1198                   Ivone Maritza Galvis Arciniegas                                   San Gil                             0:51:57          +27:56            5.7 km/h           10:23 Min/km
+113.       1132                   Wendy Zuleini Arciniegas Romero                                   Santander                          0:51:49          +27:48            5.7 km/h           10:21 Min/km
+112.       1044                   Nancy Velasco                                                        SAN GIL                             0:51:00          +26:59            5.8 km/h           10:12 Min/km
+111.       1180                   Lady Adriana Reyes Barrera                                          SAN GIL                             0:50:48          +26:47            5.9 km/h           10:09 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (15) Break----------------
+17
+18.      5019                   Yenifer Moreno Ribero                                               SAN GIL                             0:40:10          +13:24            7.4 km/h           8:02 Min/km
+17.      5021                   Yesenia Patricia Mantilla Piñeres                                 SOCORRO                             0:40:09          +13:23            7.4 km/h           8:01 Min/km
+16.      5047                   Erica Tatiana Pico Celis                                            SAN GIL                             0:39:25          +12:39            7.6 km/h           7:53 Min/km
+15.      5022                   Alejandra Liliana Garzon Cortines                                 FLORIDABLANCA                      0:39:14          +12:28            7.6 km/h           7:50 Min/km
+14.      5046                   Yeritza Luna Lopez                                                    SOCORRO                             0:38:59          +12:13            7.6 km/h           7:47 Min/km
+13.      5005                   Milena Mendieta Niño                                                 SOCORRO                             0:38:24          +11:38            7.8 km/h           7:40 Min/km
+12.      5065                   Claudia Cristhina Murillo Calderon                                 SAN GIL                             0:38:17          +11:31            7.8 km/h           7:39 Min/km
+11.      5056                   Jennifer Paola Gomez Garces                                        SAN GIL                             0:37:59          +11:13            7.8 km/h           7:35 Min/km
+10.      5039                   Patricia Silva Uribe                                                 SAN GIL                             0:36:08          +9:22            8.3 km/h           7:13 Min/km
+9.        5003                   Hilda Lorena Diaz Lopez                                            SAN GIL                             0:35:29          +8:43            8.4 km/h           7:05 Min/km
+8.        5044                   Tatiana Vega                                                           Socorro                             0:35:07          +8:21            8.5 km/h           7:01 Min/km
+7.        5034                   Maria Fernanda Hurtado Mejia                                        SAN GIL                             0:33:47          +7:01            8.8 km/h           6:45 Min/km
+6.        5054                   Yulieth Patricia Avila Sarmiento                                   Valle                               0:33:03          +6:17            9.0 km/h           6:36 Min/km
+5.        2167                   Laura Lisseth Lizarazo Solano                                     San Gil                             0:32:59          +6:13            9.0 km/h           6:35 Min/km
+4.        5033                   Ligia Fernanda Castro Hurtado                                     SAN GIL                             0:31:28          +4:42            9.5 km/h           6:17 Min/km
+3.        5020                   Maria Alejandra Mantilla Piñeres                                   Socorro                             0:31:15          +4:29            9.5 km/h           6:15 Min/km
+2.        5001                   Laura Cristina Jaimes Pinzon                                        SAN GIL                             0:30:15          +3:29            9.9 km/h           6:03 Min/km
+1.        5051                   Tania Mejia Diaz                                                      SAN GIL                             0:26:46          --                11.2 km/h          5:21 Min/km
+Damas
+5 K UNISANGIL
+74.      1007                   Brayan Stiven Guevara Peña                                          San Gil                             0:59:02          +40:24            5.0 km/h           11:48 Min/km
+73.      1059                   Juan Jose Hernandez Patiño                                          Paramo                               0:55:30          +36:52            5.4 km/h           11:06 Min/km
+72.      1091                   Juan Luis Beltran Beltran                                          San Gil                             0:50:37          +31:59            5.9 km/h           10:07 Min/km
+71.      1096                   Cristhiam Camilo Ramirez Remolina                                 San Gil                             0:50:29          +31:51            5.9 km/h           10:05 Min/km
+70.      1214                   Diego Armando Escandon                                               Bogotá                               0:49:35          +30:57            6.0 km/h           9:55 Min/km
+69.      1115                   Freddy Giovanni Tamayo Lopez                                        Bucaramanga                        0:49:30          +30:52            6.0 km/h           9:54 Min/km
+68.      1083                   Cristian Ramirez Hincapie                                          SAN GIL                             0:49:21          +30:43            6.0 km/h           9:52 Min/km
+67.      1166                   Raymond Duvan Cardenas Paez                                        San Gil                             0:48:10          +29:32            6.2 km/h           9:38 Min/km
+66.      1205                   Miguel Angel Patiño Pardo                                          San Gil                             0:47:21          +28:43            6.3 km/h           9:28 Min/km
+65.      1151                   Daniel Antonio Mantilla Cuadros                                   San Gil                             0:46:52          +28:14            6.3 km/h           9:22 Min/km
+64.      1154                   Cristian Antonio Gonzalez Crespo                                   San Gil                             0:46:50          +28:12            6.4 km/h           9:22 Min/km
+63.      1035                   Diego Alexander Ardila Sanabria                                   SAN GIL                             0:46:27          +27:49            6.4 km/h           9:17 Min/km
+62.      1228                   Guillermo Andres Diaz Arce                                          Bucaramanga                        0:44:46          +26:08            6.6 km/h           8:57 Min/km
+61.      1182                   William Yesid Valdes Barrera                                        SAN GIL                             0:43:53          +25:15            6.8 km/h           8:46 Min/km
+60.      1090                   Jonathan Andres Gallo Cipagauta                                   San Gil                             0:43:24          +24:46            6.9 km/h           8:40 Min/km
+59.      1143                   Wilington Rueda Miranda                                            San Gil                             0:43:04          +24:26            6.9 km/h           8:36 Min/km
+58.      1135                   Neider Giovanny Buitrago Cancino                                   San Gil                             0:42:41          +24:03            7.0 km/h           8:32 Min/km
+57.      1022                   Milton Ruiz Porras                                                    SAN GIL                             0:42:31          +23:53            7.0 km/h           8:30 Min/km
+56.      1183                   Leonel Josue Romero Serrano                                        Socorro                             0:42:03          +23:25            7.1 km/h           8:24 Min/km
+55.      1028                   Sebastian Camilo Pinzon Pinto                                     San Gil                             0:41:36          +22:58            7.2 km/h           8:19 Min/km
+54.      1179                   Arlex Duvalier Cubillos Rojas                                     SAN GIL                             0:40:53          +22:15            7.3 km/h           8:10 Min/km
+53.      1203                   Samuel Almeida Guadron                                                                                     0:40:50          +22:12            7.3 km/h           8:10 Min/km
+52.      1146                   Deyber Delgado                                                        San Gil                             0:40:46          +22:08            7.3 km/h           8:09 Min/km
+51.      1101                   Daniel Diaz Silva                                                    Santander                          0:40:41          +22:03            7.3 km/h           8:08 Min/km
+50.      1070                   Julian Lopez                                                           SOCORRO                             0:40:15          +21:37            7.4 km/h           8:03 Min/km
+49.      1127                   Anderson Rodriguez Sierra                                          San Gil                             0:40:07          +21:29            7.4 km/h           8:01 Min/km
+48.      1003                   Sergio Libardo Ayala Muñoz                                          SAN GIL                             0:39:49          +21:11            7.5 km/h           7:57 Min/km
+47.      1086                   Edgar Mauricio Campos Ribero                                        San Gil                             0:39:29          +20:51            7.5 km/h           7:53 Min/km
+46.      1052                   Jose Luis Moreno Sanchez                                            San Gil                             0:38:50          +20:12            7.7 km/h           7:46 Min/km
+45.      1110                   Jorge Andres Ruiz Galvis                                            San Gil                             0:38:49          +20:11            7.7 km/h           7:45 Min/km
+44.      1076                   Ricardo Andres Mendez Quintero                                     BUCARAMANGA                        0:38:47          +20:09            7.7 km/h           7:45 Min/km
+43.      1122                   Ciro Alfonso Quintero Jaimes                                        Ssan Gil                             0:38:40          +20:02            7.7 km/h           7:44 Min/km
+42.      1129                   Pablo Andres Carreño Quintero                                     San Gil                             0:38:38          +20:00            7.7 km/h           7:43 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (16) Break----------------
+18
+25.      5008                   Miguel Angel Franco Villalba                                        San Gil                             1:25:22          +1:02:39          3.5 km/h           17:04 Min/km
+24.      5058                   Javier Stefano Blanco Mora                                          SAN GIL                             0:54:41          +31:58            5.4 km/h           10:56 Min/km
+23.      5025                   Luis Angel Guerrero Velasco                                        SAN GIL                             0:51:00          +28:17            5.8 km/h           10:12 Min/km
+22.      5060                   Jaime Enrique Santos Rodriguez                                     San Gil                             0:46:48          +24:05            6.4 km/h           9:21 Min/km
+21.      5038                   Juan Sebastian Perez Patiño                                        BARICHARA                          0:46:44          +24:01            6.4 km/h           9:20 Min/km
+20.      5049                   Erick Julian Carreño Ibañez                                        SAN GIL                             0:42:57          +20:14            6.9 km/h           8:35 Min/km
+19.      5015                   Juan Pablo Arenas Benitez                                          San Gil                             0:40:50          +18:07            7.3 km/h           8:10 Min/km
+18.      5057                   Jorge Johan Suarez Medina                                          SAN GIL                             0:39:29          +16:46            7.5 km/h           7:53 Min/km
+17.      5029                   Gerson Esteban Velasquez Vargas                                   SAN GIL                             0:39:13          +16:30            7.6 km/h           7:50 Min/km
+16.      5011                   Rafael Ivan Rodriguez Suarez                                        SAN GIL                             0:37:17          +14:34            8.0 km/h           7:27 Min/km
+15.      5023                   Jefferson Fabian Reyes Paez                                        SAN GIL                             0:35:31          +12:48            8.4 km/h           7:06 Min/km
+14.      1208                   Luis Eduardo Mateus Ariza                                          Bucaramanga                        0:33:44          +11:01            8.8 km/h           6:44 Min/km
+13.      5007                   Luis Danery Prada Bueno                                            SAN GIL                             0:33:43          +11:00            8.8 km/h           6:44 Min/km
+12.      5031                   Juan Jose Diaz Quiñonez                                            SAN GIL                             0:33:08          +10:25            9.0 km/h           6:37 Min/km
+11.      5042                   Jhon Lopez Aguilar                                                    BOGOTa. D.C.                        0:32:10          +9:27            9.3 km/h           6:26 Min/km
+10.      5030                   Ruben Dario Mejia Arciniegas                                        Barichara                          0:31:31          +8:48            9.5 km/h           6:18 Min/km
+9.        5072                   Juan Alejandro Leon Arena                                                                                0:31:27          +8:44            9.5 km/h           6:17 Min/km
+8.        5063                   Brayan Andrey Caceres Mesa                                          SAN GIL                             0:26:13          +3:30           11.4 km/h          5:14 Min/km
+7.        5073                   Luis Eduardo Mateus Ariza                                          San Gil                             0:25:24          +2:41           11.8 km/h          5:04 Min/km
+6.        5052                   Emmanuel  Prada Beltran                                            SAN GIL                             0:24:57          +2:14           12.0 km/h          4:59 Min/km
+5.        5062                   Jonathan Ricardo Suarez Diaz                                        SAN GIL                             0:24:21          +1:38           12.3 km/h          4:52 Min/km
+4.        5017                   Silverio  Gomez  Meza                                               SAN GIL                             0:24:13          +1:30           12.3 km/h          4:50 Min/km
+3.        5013                   Marlon David Mosquera Martinez                                     EL ZULIA                             0:23:36          +53              12.7 km/h          4:43 Min/km
+2.        5018                   William Orlando Rincon Leon                                        San Gil                             0:23:05          +22              12.9 km/h          4:37 Min/km
+1.        5028                   Juan Jose Corredor Bastilla                                        Páramo                               0:22:43          --                13.2 km/h          4:32 Min/km
+Hombres
+46.      5045                   Carolina Rincon Reyes                                               SAN GIL                             1:02:25          +35:39            4.8 km/h           12:29 Min/km
+45.      5069                   Omaira Guevara Nieves                                               San Gil                             0:59:04          +32:18            5.0 km/h           11:48 Min/km
+44.      5012                   Maria Fernanda Ramirez Monsalve                                   SAN GIL                             0:57:27          +30:41            5.2 km/h           11:29 Min/km
+43.      5010                   Yennifer Remolina Quintero                                          SAN GIL                             0:56:30          +29:44            5.3 km/h           11:18 Min/km
+42.      5070                   Maria Alejandra Jimenez Cavieles                                   SAN GIL                             0:50:46          +24:00            5.9 km/h           10:09 Min/km
+41.      5024                   Stephany Castro                                                      SAN GIL                             0:50:09          +23:23            5.9 km/h           10:01 Min/km
+40.      5036                   Mariana Maya Diaz                                                    Barranca                             0:49:41          +22:55            6.0 km/h           9:56 Min/km
+39.      5002                   Laura Margarita Salazar Ordoñez                                   SAN GIL                             0:49:26          +22:40            6.0 km/h           9:53 Min/km
+38.      5006                   Paula Andrea Chacon Santos                                          BUCARAMANGA                        0:48:49          +22:03            6.1 km/h           9:45 Min/km
+37.      5061                   Maria Jose Castillo Rueda                                          SAN GIL                             0:48:29          +21:43            6.1 km/h           9:41 Min/km
+36.      5068                   Claudia Fernanda Bautista Campos                                   BOGOTa. D.C.                        0:48:15          +21:29            6.2 km/h           9:39 Min/km
+35.      5043                   Karen Lizzeth Ayala Pico                                            SAN GIL                             0:46:44          +19:58            6.4 km/h           9:20 Min/km
+34.      5014                   Natalia Silva                                                        BARICHARA                          0:46:44          +19:58            6.4 km/h           9:20 Min/km
+33.      5040                   Liseth Valentina Ramirez Muñoz                                     SAN GIL                             0:45:48          +19:02            6.5 km/h           9:09 Min/km
+32.      5026                   Maria Fernanda Rojas Muñoz                                          SAN GIL                             0:43:59          +17:13            6.8 km/h           8:47 Min/km
+31.      5059                   Liceth Dayana Ardila Suarez                                        SAN GIL                             0:43:33          +16:47            6.8 km/h           8:42 Min/km
+30.      5067                   Daniela Stefany Arciniegas Vargas                                 San Gil                             0:43:25          +16:39            6.9 km/h           8:41 Min/km
+29.      5000                   Fabiola Perez Ferreira                                               SAN GIL                             0:43:20          +16:34            6.9 km/h           8:40 Min/km
+28.      5066                   Silvia Juliana Leon Lozano                                          SAN GIL                             0:43:17          +16:31            6.9 km/h           8:39 Min/km
+27.      5050                   Maria Paula Leon Alvarez                                            SAN GIL                             0:42:57          +16:11            6.9 km/h           8:35 Min/km
+26.      5064                   Karol Mariana Cardozo                                               SAN GIL                             0:42:52          +16:06            6.9 km/h           8:34 Min/km
+25.      5035                   Aura Bibiana Velasco Sierra                                        SAN GIL                             0:42:37          +15:51            7.0 km/h           8:31 Min/km
+24.      5055                   Andrea Marcela Castellanos Muñoz                                   SAN GIL                             0:42:15          +15:29            7.1 km/h           8:27 Min/km
+23.      5004                   Sara Kathalina Silva Marin                                          SAN GIL                             0:41:52          +15:06            7.1 km/h           8:22 Min/km
+22.      5071                   Ana Maria Cepeda Garcia                                            SAN GIL                             0:41:46          +15:00            7.1 km/h           8:21 Min/km
+21.      5037                   Karen Lorena  Ramirez Muñoz                                        SAN GIL                             0:41:43          +14:57            7.1 km/h           8:20 Min/km
+20.      5027                   Danny Alexandra Sanchez                                            VILLANUEVA                          0:41:20          +14:34            7.2 km/h           8:16 Min/km
+19.      5009                   Karoll Andrea Muñoz Riaño                                          Pinchote                             0:40:47          +14:01            7.3 km/h           8:09 Min/km
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (17) Break----------------
+19
+DSQ       5041                   Ivan Lozano                                                           SAN GIL                                  --            --                       --            --
+Puesto        Placa       Pais       Nombre                                                                        Ciudad                               Tiempo Chip            Dif.                Vel. Prom.           Ritmo
+FINAL X CATEGORIAS Y GENERO 
+MMU MEDIA MARATON UNISANGIL - UNAB.
+RUNNING UNISANGIL 2026. 
+----------------Page (18) Break----------------
