@@ -207,7 +207,7 @@ a:hover {
 
 .form-control {
   width: 100%;
-  background: rgba(15, 20, 30, 0.7);
+  background: rgba(255, 255, 255, 0.7);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   padding: 0.85rem 1rem;
@@ -215,14 +215,14 @@ a:hover {
   font-family: 'Inter', sans-serif;
   font-size: 1rem;
   transition: all var(--transition-normal);
-  box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.05);
 }
 
 .form-control:focus {
   outline: none;
-  background: rgba(20, 25, 40, 0.9);
+  background: rgba(255, 255, 255, 0.95);
   border-color: hsl(var(--accent-cyan));
-  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1), 0 0 0 3px var(--border-focus);
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.05), 0 0 0 3px var(--border-focus);
 }
 
 .form-control::placeholder {
@@ -231,7 +231,7 @@ a:hover {
 
 select.form-control {
   appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='rgba(255,255,255,0.7)'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='rgba(0,0,0,0.5)'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 1rem center;
   background-size: 1rem;
