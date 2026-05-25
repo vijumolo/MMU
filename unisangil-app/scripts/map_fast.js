@@ -1,0 +1,1 @@
+import fs from 'fs'; import pdf from 'pdf-parse'; async function run() { const dataBuffer = fs.readFileSync('../Diplomas/DIPLOMAS UNISANGIL.pdf'); const data = await pdf(dataBuffer); const pages = data.text.split('\n\n\n'); console.log(pages.length); } run().catch(console.error);

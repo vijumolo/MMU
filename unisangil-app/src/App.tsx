@@ -60,10 +60,14 @@ export default function App() {
       
       // Fetch the full PDF
       let res = await fetch('/Diplomas/DIPLOMAS UNISANGIL.pdf');
-      if (!res.ok) {
+      let contentType = res.headers.get('content-type') || '';
+      
+      if (!res.ok || !contentType.includes('application/pdf')) {
         res = await fetch('/diplomas.pdf');
+        contentType = res.headers.get('content-type') || '';
       }
-      if (!res.ok) {
+      
+      if (!res.ok || !contentType.includes('application/pdf')) {
         throw new Error("No se pudo cargar el archivo PDF.");
       }
       const pdfBytes = await res.arrayBuffer();
