@@ -47,9 +47,57 @@ export default function App() {
     groupedData[r.categoria][r.gender].push(r);
   });
 
-  const handleDownloadDiploma = (page: number | undefined) => {
-    const targetPage = page || 1;
-    window.open(`/diplomas.pdf#page=${targetPage}`, '_blank');
+  const [isGenerating, setIsGenerating] = useState(false);
+
+  const handleDownloadDiploma = async (page: number | undefined, athleteName: string) => {
+    if (!page) return;
+    
+    try {
+      setIsGenerating(true);
+      
+      // Import pdf-lib dynamically so it doesn't block initial page load
+      const { PDFDocument } = await import('pdf-lib');
+      
+      // Fetch the full PDF
+      let res = await fetch('/Diplomas/DIPLOMAS UNISANGIL.pdf');
+      if (!res.ok) {
+        res = await fetch('/diplomas.pdf');
+      }
+      if (!res.ok) {
+        throw new Error("No se pudo cargar el archivo PDF.");
+      }
+      const pdfBytes = await res.arrayBuffer();
+      
+      // Load the PDF Document
+      const pdfDoc = await PDFDocument.load(pdfBytes);
+      
+      // Create a new document with just that page (page numbers are 1-indexed, pdf-lib is 0-indexed)
+      const newPdf = await PDFDocument.create();
+      const [copiedPage] = await newPdf.copyPages(pdfDoc, [page - 1]);
+      newPdf.addPage(copiedPage);
+      
+      // Serialize to bytes
+      const newPdfBytes = await newPdf.save();
+      
+      // Create a blob and object URL
+      const blob = new Blob([newPdfBytes as any], { type: 'application/pdf' });
+      const url = URL.createObjectURL(blob);
+      
+      // Open in a new tab
+      const newWindow = window.open(url, '_blank');
+      if (newWindow) {
+         // Attempt to set the title of the new window
+         newWindow.onload = () => {
+             newWindow.document.title = `Diploma - ${athleteName}`;
+         };
+      }
+      
+      setIsGenerating(false);
+    } catch (e) {
+      console.error(e);
+      alert('Hubo un error al generar el diploma.');
+      setIsGenerating(false);
+    }
   };
 
   const renderPositionBadge = (pos: number) => {
@@ -169,8 +217,9 @@ export default function App() {
                                 <td className="p-4 text-amber-600 font-mono font-bold">{r.tiempo}</td>
                                 <td className="p-4 text-center">
                                   <button 
-                                    onClick={() => handleDownloadDiploma(r.diplomaPage)}
-                                    className="p-2 rounded bg-black/5 hover:bg-blue-100 text-blue-600 hover:text-blue-800 border border-transparent hover:border-blue-300 transition-all"
+                                    onClick={() => handleDownloadDiploma(r.diplomaPage, r.nombre)}
+                                    disabled={isGenerating}
+                                    className="p-2 rounded bg-black/5 hover:bg-blue-100 text-blue-600 hover:text-blue-800 border border-transparent hover:border-blue-300 transition-all disabled:opacity-50"
                                     title="Ver Diploma"
                                   >
                                     <FileText className="w-5 h-5 mx-auto" />
